@@ -1,0 +1,500 @@
+ClientName,NetAssets,EstablishedTime,Region,NumberOfFunds,InvestmentServicing,Custody,ETFSolutionsCost,FundAccounting,RiskAnalytics,MultiAssetClassAnalytics,DigitalExperience,PortfolioSolutions,FXServices,FinancingCollateralServices
+Vanguard,7586623.06,1929,US,183,Y,Y,N,N,N,N,N,Y,N,Y
+Fidelity Investments,3522451.33,1930,EUR,512,Y,Y,N,N,N,N,N,Y,N,Y
+American Funds,2352274.51,1934,US,69,N,Y,N,N,Y,Y,Y,N,N,Y
+iShares,"2,247,698.42",1996,EUR,386,N,Y,N,N,Y,Y,Y,N,N,Y
+State Street Global Advisors,1229128.21,1935,EUR,188,N,Y,N,N,Y,Y,Y,N,N,Y
+J.P. Morgan,1010465.44,1987,EUR,153,N,Y,N,N,Y,Y,Y,N,N,Y
+BlackRock,893713.19,1973,US,217,N,Y,N,N,Y,Y,Y,N,N,Y
+T. Rowe Price,885588.95,1939,EUR,183,Y,Y,N,N,Y,N,N,N,N,Y
+The Vanguard Group,827056.14,1992,EUR,1,Y,Y,N,N,Y,N,N,N,N,Y
+Invesco,749860.85,1946,EUR,393,Y,N,N,Y,N,N,Y,Y,N,Y
+TIAA Investments,533650.24,1952,EUR,88,Y,N,N,Y,N,N,Y,Y,N,Y
+Franklin Templeton,521531.67,1948,US,287,Y,N,N,Y,N,N,Y,Y,N,Y
+Goldman Sachs,521061.98,1988,EUR,128,Y,N,N,Y,N,N,Y,Y,N,Y
+Dimensional Fund Advisors,489438.29,1981,EUR,127,Y,N,N,Y,N,N,Y,Y,N,Y
+PIMCO,419931.88,1987,EUR,135,Y,N,N,Y,N,N,Y,Y,N,Y
+MFS,388230.02,1924,US,99,Y,N,N,Y,N,N,Y,Y,N,Y
+Federated,352719.34,1968,EUR,89,Y,N,N,Y,N,Y,Y,N,N,Y
+Morgan Stanley,332468.13,1981,EUR,79,Y,N,N,Y,N,Y,Y,N,N,Y
+Charles Schwab,299000.81,1990,EUR,72,Y,N,N,Y,N,Y,Y,N,N,Y
+Schwab ETFs,257114.89,2009,US,27,Y,N,N,Y,N,Y,Y,N,N,Y
+Allspring Global Investments,247478.97,1968,EUR,106,Y,N,N,Y,N,Y,Y,N,N,Y
+Dreyfus,233957.7,1982,EUR,14,Y,N,N,Y,N,Y,Y,N,N,Y
+Dodge & Cox,228930.29,1931,EUR,7,Y,N,N,Y,N,Y,Y,N,N,Y
+John Hancock,226276.98,1971,EUR,157,Y,N,N,Y,N,Y,Y,N,N,Y
+Northern Funds,213076.96,1985,US,44,N,N,N,N,Y,Y,Y,Y,Y,Y
+Columbia Threadneedle,209497.57,1929,EUR,120,N,N,N,N,Y,Y,Y,Y,Y,Y
+Principal Funds,188905.71,1939,US,93,N,N,N,N,Y,Y,Y,Y,Y,Y
+Lord Abbett,171678.87,1950,EUR,54,N,N,N,N,N,Y,Y,Y,Y,Y
+Janus,161318.81,1985,US,59,N,N,N,N,N,Y,Y,Y,Y,Y
+American Century Investments,158423.13,1971,EUR,112,N,N,N,N,N,Y,Y,Y,Y,Y
+First Trust,145625.08,2003,EUR,215,N,N,N,N,N,Y,Y,Y,Y,Y
+Prudential,145539.41,1976,EUR,90,N,N,N,N,N,Y,Y,Y,Y,Y
+Natixis Investment Managers,141245.94,1931,EUR,74,Y,Y,N,Y,N,Y,N,N,N,N
+Hartford,138508.53,1977,US,77,Y,Y,N,Y,N,Y,N,N,N,N
+Nuveen,137737.15,1976,EUR,131,Y,Y,N,Y,N,Y,N,N,N,N
+Eaton Vance,136497.9,1931,EUR,143,Y,Y,N,Y,N,Y,N,N,N,N
+Bridge Builder,122755.88,2013,EUR,8,Y,N,N,Y,N,Y,Y,N,N,Y
+Victory Capital,120036.11,1971,EUR,110,Y,N,N,Y,N,Y,Y,N,N,Y
+First American,119664.7,1990,US,6,Y,N,N,Y,N,Y,Y,N,N,Y
+AllianceBernstein,118982.07,1932,EUR,72,Y,N,N,Y,N,Y,Y,N,N,Y
+SEI,111830.98,1985,EUR,88,Y,N,N,Y,N,Y,Y,N,N,Y
+Delaware Funds by Macquarie,103755.19,1940,EUR,96,Y,N,N,Y,N,Y,Y,N,N,Y
+Voya,97768.17,1935,EUR,133,Y,N,N,Y,N,Y,Y,N,N,Y
+Baird,91631.96,2000,US,15,Y,N,N,Y,N,Y,Y,N,N,Y
+Putnam,81263.6,1937,EUR,77,Y,N,N,Y,N,Y,Y,N,N,Y
+Metropolitan West Funds,80342.11,1997,EUR,14,Y,N,N,Y,N,Y,Y,N,N,Y
+Artisan Partners Funds Inc,79021.38,1995,US,16,N,Y,N,Y,N,Y,Y,Y,N,N
+Artisan,79021.38,1995,EUR,16,N,Y,N,Y,N,Y,Y,Y,N,N
+USAA Mutual Funds,78825.08,1971,EUR,47,N,Y,N,Y,N,Y,Y,Y,N,N
+BNY Mellon,72105.99,1951,US,107,N,Y,N,Y,N,Y,Y,Y,N,N
+DoubleLine,69188.14,2010,EUR,22,N,Y,N,Y,N,Y,Y,Y,N,N
+New York Life Investments,68189.6,1971,EUR,45,N,Y,N,Y,N,Y,Y,Y,N,N
+First Eagle,67326.89,1970,EUR,9,N,Y,N,Y,N,Y,Y,Y,N,N
+DWS,65295.21,1928,US,58,N,Y,N,Y,N,Y,Y,Y,N,N
+Principal Financial Group Inc,64276.53,1939,EUR,18,N,Y,N,Y,N,Y,Y,Y,N,N
+Virtus,63791.28,1940,EUR,115,N,Y,N,Y,N,Y,Y,Y,N,N
+Artisan Partners Limited Partnership,63686.39,1995,EUR,21,N,Y,N,Y,N,Y,Y,Y,N,N
+VanEck,63379.04,1956,US,71,N,Y,N,Y,N,Y,Y,Y,N,N
+ProShares,60523.62,2006,EUR,135,Y,N,N,N,N,Y,Y,Y,Y,Y
+Allspring,60170.35,1968,EUR,59,Y,N,N,N,N,Y,Y,Y,Y,Y
+Six Circles,54898.92,2018,US,9,Y,N,N,N,N,Y,Y,Y,Y,Y
+WisdomTree,49679.06,2006,EUR,78,Y,N,N,N,N,Y,Y,Y,Y,Y
+Cohen & Steers,47949.54,1991,EUR,19,Y,N,N,N,N,Y,Y,Y,Y,Y
+Guggenheim,46547.99,1944,EUR,87,Y,N,N,N,N,Y,Y,Y,Y,Y
+Neuberger Berman,45880.91,1950,US,42,Y,N,N,N,N,Y,Y,Y,Y,Y
+HSBC,45048.99,1990,EUR,3,Y,N,N,N,N,Y,Y,Y,Y,Y
+Baron Capital Group,44136.73,1987,US,17,Y,N,N,N,N,Y,Y,Y,Y,Y
+Amundi US,43755.61,1928,EUR,33,Y,N,N,N,N,Y,Y,Y,Y,Y
+UBS Asset Management,43500.45,1972,EUR,47,Y,N,N,N,N,Y,Y,Y,Y,Y
+"Wilmington Trust, N.A",42493.02,2006,US,103,Y,N,N,N,N,Y,Y,Y,Y,Y
+Old Westbury,41511.13,1993,EUR,8,N,Y,N,N,N,N,N,Y,Y,Y
+Parnassus,40339.74,1984,EUR,5,N,Y,N,N,N,N,N,Y,Y,Y
+Global X Funds,40149.46,2009,US,93,N,Y,N,N,N,N,N,Y,Y,Y
+Russell,40044.93,1981,EUR,39,N,Y,N,N,N,N,N,Y,Y,Y
+Transamerica,39937.09,1985,US,55,N,Y,N,N,N,N,N,Y,Y,Y
+Royce,39794.21,1972,EUR,45,N,Y,N,N,N,N,N,Y,Y,Y
+Harbor,39213.5,1987,EUR,27,N,Y,N,N,N,N,N,Y,Y,Y
+Thornburg,38760.94,1984,US,20,N,Y,N,N,N,N,N,Y,Y,Y
+MassMutual,37238.75,1994,EUR,73,N,Y,N,N,N,N,N,Y,Y,Y
+"Baron Capital Group, Inc.",36457.43,1987,EUR,19,N,Y,N,N,N,N,N,Y,Y,Y
+GMO,35936.18,1985,EUR,29,N,Y,N,N,N,N,N,Y,Y,Y
+Great-West Funds,35746.92,1982,US,45,N,Y,N,N,N,N,N,Y,Y,Y
+Edward Jones,33656.65,1980,EUR,1,N,Y,N,N,N,N,N,Y,Y,Y
+VALIC,32619.46,1983,US,36,N,Y,N,N,N,N,N,Y,Y,Y
+Thrivent,29812.98,1972,EUR,27,N,Y,N,N,N,N,N,Y,Y,Y
+Calamos,26734.41,1985,EUR,20,N,Y,N,Y,N,Y,N,N,N,Y
+Touchstone,26697.32,1934,EUR,32,N,Y,N,Y,N,Y,N,N,N,Y
+Grayscale,26531.87,2013,EUR,8,N,Y,N,Y,N,Y,N,N,N,Y
+Harding Loevner,25912.25,1994,EUR,10,N,Y,N,Y,N,Y,N,N,N,Y
+GuideStone Funds,25584.41,2001,US,24,N,Y,N,Y,N,Y,N,N,N,Y
+Direxion Funds,25187.42,1999,EUR,94,N,Y,N,Y,N,Y,N,N,N,Y
+American Beacon,23335.82,1987,EUR,29,N,Y,N,Y,N,Y,N,N,N,Y
+AMG Funds,23325.17,1984,EUR,42,N,Y,N,Y,N,Y,N,N,N,Y
+Flexshares Trust,23049.75,2011,US,32,N,Y,N,Y,N,Y,N,N,N,Y
+PRIMECAP Odyssey Funds,22042.08,2004,EUR,3,N,Y,N,Y,N,Y,N,N,N,Y
+Lazard,21908.81,1991,EUR,31,N,Y,N,Y,N,Y,N,N,N,Y
+Edgewood,21538.88,2006,EUR,1,N,Y,N,Y,N,Y,N,N,N,Y
+FPA,21202.62,1984,US,7,N,Y,N,Y,N,Y,N,N,N,Y
+Mutual of America,20032.93,1984,EUR,26,N,Y,N,Y,N,Y,N,N,N,Y
+Nationwide,19845.24,1933,EUR,51,N,Y,N,Y,N,Y,N,N,N,Y
+KP Funds,19357.86,2014,EUR,13,Y,N,Y,N,N,N,N,Y,Y,N
+BBH,18983.02,2000,US,8,Y,N,Y,N,N,N,N,Y,Y,N
+Xtrackers,18725.16,2011,EUR,32,Y,N,Y,N,N,N,N,Y,Y,N
+Alger,18549.94,1969,US,29,Y,N,Y,N,N,N,N,Y,Y,N
+Brown Advisory Funds,18475.68,1991,EUR,19,Y,N,Y,N,N,N,N,Y,Y,N
+Diamond Hill Funds,18125.21,2000,EUR,10,Y,N,Y,N,N,N,N,Y,Y,N
+Gabelli,16928.97,1985,EUR,39,Y,N,Y,N,N,N,N,Y,Y,N
+Carillon Family of Funds,16602.72,1985,US,11,Y,N,Y,N,N,N,N,Y,Y,N
+ALPS,16129.03,2007,EUR,34,Y,N,Y,N,N,N,N,Y,Y,N
+ARK ETF Trust,15774.79,2014,EUR,9,Y,N,Y,N,N,N,N,Y,Y,N
+Matthews Asia Funds,15384.3,1994,EUR,16,Y,N,Y,N,N,N,N,Y,Y,N
+Pacer,14979.6,2015,EUR,45,Y,N,Y,N,N,N,N,Y,Y,N
+AQR Funds,14742.13,2009,US,23,Y,N,Y,N,N,N,N,Y,Y,N
+Destinations Funds,14431.98,2017,EUR,10,Y,N,Y,N,N,N,N,Y,Y,N
+Akre,14222.96,2009,EUR,1,Y,N,Y,N,N,N,N,Y,Y,N
+Baillie Gifford Funds,13526.23,2003,EUR,18,Y,N,Y,N,N,N,N,Y,Y,N
+Wasatch,13211.3,1986,EUR,19,Y,N,Y,N,N,N,N,Y,Y,N
+USAA,13170.48,1981,US,5,Y,N,Y,N,N,N,N,Y,Y,N
+TCW,12350.8,1986,EUR,18,Y,N,Y,N,N,N,N,Y,Y,N
+Avantis Investors,12138.85,2019,EUR,24,Y,N,Y,N,N,N,N,Y,Y,N
+GQG Partners Inc,12124.03,2016,EUR,6,Y,N,Y,N,N,N,N,Y,Y,N
+Mercer Funds,11841.52,2005,US,7,Y,N,Y,N,N,N,N,Y,Y,N
+Wilmington Funds,11782.2,1988,EUR,10,Y,N,Y,N,N,N,N,Y,Y,N
+William Blair,11457.97,1946,EUR,19,Y,N,Y,N,N,N,N,Y,Y,N
+JOHCM Funds,11206.97,1992,US,10,Y,N,Y,N,N,N,N,Y,Y,N
+KraneShares,11082.71,2013,EUR,29,Y,N,N,N,Y,N,N,N,Y,N
+City National Rochdale,10734.89,1999,EUR,11,Y,N,N,N,Y,N,N,N,Y,N
+Polen Capital,10639.11,2010,US,8,Y,N,N,N,Y,N,N,N,Y,N
+Pacific Funds,10518.56,2003,EUR,15,Y,N,N,N,Y,N,N,N,Y,N
+Paydenfunds,10343.76,1992,EUR,19,Y,N,N,N,Y,N,N,N,Y,N
+Pax World,10337.7,1971,EUR,11,Y,N,N,N,Y,N,N,N,Y,N
+Jensen,10232.09,1992,US,3,Y,N,N,N,Y,N,N,N,Y,N
+GQG Partners,10174.14,2016,EUR,6,Y,N,N,N,Y,N,N,N,Y,N
+Davis Funds,10043.86,1969,EUR,12,Y,N,N,N,Y,N,N,N,Y,N
+Catholic Responsible Investments Funds,9959.5,2021,EUR,13,Y,N,N,N,Y,N,N,N,Y,N
+State Farm,9805.73,1968,US,4,Y,N,N,N,Y,N,N,N,Y,N
+Credit Suisse,9266.87,1987,EUR,23,Y,N,N,N,Y,N,N,N,Y,N
+First Investors,9194.45,1970,EUR,22,Y,N,N,N,Y,N,N,N,Y,N
+RBB Funds,8850.36,2007,US,5,Y,N,N,N,Y,N,N,N,Y,N
+Royce Investment Partners,8655.12,1972,EUR,13,Y,N,N,N,Y,N,N,N,Y,N
+Navigator Funds,8646.01,2010,EUR,5,Y,N,N,N,Y,N,N,N,Y,N
+Champlain Funds,8557.65,2004,EUR,3,Y,N,N,N,Y,N,N,N,Y,N
+Causeway,8299.04,2001,US,6,Y,N,N,N,Y,N,N,N,Y,N
+pacific funds series trust,7949.74,2003,EUR,16,Y,N,N,N,Y,N,N,N,Y,N
+Aberdeen Standard Investments,7867.12,2009,EUR,8,Y,N,N,N,Y,N,N,N,Y,N
+PT Asset Management,7756.92,2010,EUR,3,Y,N,N,N,Y,N,N,N,Y,N
+Angel Oak,7513.43,2009,EUR,7,Y,N,N,N,Y,N,N,N,Y,N
+Innovator ETFs,7327.84,2015,US,87,Y,N,N,N,Y,N,N,N,Y,N
+"Tweedy, Browne",7157.44,1993,APAC,4,Y,N,N,N,Y,N,N,N,Y,N
+FMI Funds,7059.02,1981,APAC,4,Y,N,N,N,Y,N,N,N,Y,N
+Glenmede,6827.01,1988,US,18,N,Y,Y,N,N,N,N,Y,N,N
+Aberdeen,6773.84,1986,APAC,20,N,Y,Y,N,N,N,N,Y,N,N
+Performance Trust Asset Management,6683.58,2010,APAC,3,N,Y,Y,N,N,N,N,Y,N,N
+Brown Capital Management,6645.72,1992,APAC,4,N,Y,Y,N,N,N,N,Y,N,N
+Legg Mason,6625.16,1973,US,19,N,Y,Y,N,N,N,N,Y,N,N
+Eventide Funds,6200.12,2008,APAC,7,N,Y,Y,N,N,N,N,Y,N,N
+Mairs & Power,6182.82,1958,APAC,4,N,Y,Y,N,N,N,N,Y,N,N
+Manning & Napier,6123.15,1993,APAC,15,N,Y,Y,N,N,N,N,Y,N,N
+Fuller & Thaler,6060.23,2011,US,6,N,Y,Y,N,N,N,N,Y,N,N
+Sterling Capital Funds,5781.41,1972,APAC,22,N,Y,Y,N,N,N,N,Y,N,N
+Osterweis,5717.38,1993,APAC,5,N,Y,Y,N,N,N,N,Y,N,N
+Catalyst Mutual Funds,5693.27,2008,US,20,N,Y,Y,N,N,N,N,Y,N,N
+Pear Tree Funds,5615.97,1985,APAC,7,N,Y,Y,N,N,N,N,Y,N,N
+Newton Investment Management (North America) Limited,5614.12,1988,APAC,2,N,Y,Y,N,N,N,N,Y,N,N
+"PT Asset Management, LLC (PTAM)",5356,2010,US,2,N,Y,Y,N,N,N,N,Y,N,N
+Capital Group,5340.54,1986,APAC,13,N,Y,Y,N,N,N,N,Y,N,N
+Sierra Trust,5336.92,2007,APAC,5,N,Y,Y,N,N,N,N,Y,N,N
+Ariel Investments,5266.5,1986,APAC,5,N,Y,Y,N,N,N,N,Y,N,N
+Nicholas,5214.17,1969,US,5,N,Y,Y,N,N,N,N,Y,N,N
+Blackstone,5011.9,2014,APAC,1,N,Y,Y,N,N,N,N,Y,N,N
+Amana,4990.87,1986,APAC,4,N,Y,Y,N,N,N,N,Y,N,N
+USCF Investments,4793.51,2006,US,11,N,Y,Y,N,N,N,N,Y,N,N
+Morningstar,4753.17,2018,APAC,9,N,Y,Y,N,N,N,N,Y,N,N
+ETFMG,4731.92,2012,APAC,21,N,Y,Y,N,N,N,N,Y,N,N
+"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,8,N,N,N,Y,N,N,N,N,N,N
+Virtus Funds,4671.71,1989,US,4,N,N,N,Y,N,N,N,N,N,N
+Westchester Capital,4613.3,1989,US,3,N,N,N,Y,N,N,N,N,N,N
+Grandeur Peak Funds,4394.64,2011,US,9,N,N,N,Y,N,N,N,N,N,N
+Longleaf Partners,4373.1,1987,US,4,N,N,N,Y,N,N,N,N,N,N
+Laudus Funds,4333.31,1997,US,2,N,N,N,Y,N,N,N,N,N,N
+Duff & Phelps,4213.58,1987,US,3,N,N,N,Y,N,N,N,N,N,N
+BMO Funds,4194.89,1992,US,3,N,N,N,Y,N,N,N,N,N,N
+Aspiriant,4190.53,2013,US,4,N,N,N,Y,N,N,N,N,N,N
+IndexIQ,4149.59,2009,US,28,N,N,N,Y,N,N,N,N,N,N
+Nuance Investments,4109.29,2011,US,3,N,N,N,Y,N,N,N,N,N,N
+AIG,4082.56,1998,US,1,N,N,N,Y,N,N,N,N,N,N
+SA Funds,4014.5,1999,US,10,N,N,N,Y,N,N,N,N,N,N
+Smead Funds,4005.33,2008,US,1,N,N,N,Y,N,N,N,N,N,N
+Buffalo,3987.76,1994,EUR,10,N,N,N,Y,N,N,N,N,N,N
+Allianz Global Investors,3935.49,2003,EUR,6,N,N,N,Y,N,N,N,N,N,N
+Thompson IM Funds Inc,3934.46,1992,EUR,3,N,N,N,Y,N,N,N,N,N,N
+abrdn Inc.,3883.4,1985,EUR,10,N,N,N,Y,N,N,N,N,N,N
+LoCorr Funds,3882.79,2011,EUR,5,N,N,N,Y,N,N,N,N,N,N
+CIBC Private Wealth Management,3825.57,2005,EUR,6,N,N,N,Y,N,N,N,N,N,N
+Frost Funds,3768.97,2008,EUR,5,N,N,N,Y,N,N,N,N,N,N
+Hotchkis & Wiley,3766.04,1985,EUR,11,N,N,N,Y,N,N,N,N,N,N
+Boston Partners,3736.11,1972,EUR,10,N,N,N,Y,N,N,N,N,N,N
+Advisors Preferred,3714.87,2004,EUR,20,N,N,N,Y,N,N,N,N,N,N
+Sequoia,3713.61,1970,EUR,1,Y,Y,Y,Y,N,N,N,N,N,N
+Howard Capital Management,3672.46,2014,EUR,5,Y,Y,Y,Y,N,N,N,N,N,N
+Conestoga Capital Advisors,3671.28,2002,EUR,3,Y,Y,Y,Y,N,N,N,N,N,N
+Tortoise,3658.36,2004,EUR,8,Y,Y,Y,Y,N,N,N,N,N,N
+U.S. Global Investors,3656.78,1974,EUR,11,Y,Y,Y,Y,N,N,N,N,N,N
+Bridgeway,3600.59,1994,APAC,8,Y,Y,Y,Y,N,N,N,N,N,N
+Cavanal Hill funds,3577.36,1990,APAC,11,Y,Y,Y,Y,N,N,N,N,N,N
+Amplify ETFs,3529.77,2012,APAC,15,Y,Y,Y,Y,N,N,N,N,N,N
+Hennessy,3490.38,1989,APAC,16,Y,Y,Y,Y,N,N,N,N,N,N
+Weitz,3476.1,1983,APAC,9,Y,Y,Y,Y,N,N,N,N,N,N
+Barclays,3464.6,2006,APAC,57,Y,Y,Y,Y,N,N,N,N,N,N
+Community Capital Management,3359.26,1996,APAC,4,Y,Y,Y,Y,N,N,N,N,N,N
+GuidePath,3324.55,2011,APAC,10,Y,Y,Y,Y,N,N,N,N,N,N
+Driehaus,3268.31,1997,APAC,8,Y,Y,Y,Y,N,N,N,N,N,N
+Johnson Mutual Funds,3220.5,1993,APAC,9,Y,Y,Y,Y,N,N,N,N,N,N
+Value Line,3216.4,1950,APAC,7,Y,Y,Y,Y,N,N,N,N,N,N
+Meridian,3174.32,1984,APAC,4,Y,Y,Y,Y,N,N,N,N,N,N
+Permanent Portfolio,3133.41,1982,APAC,4,Y,Y,Y,Y,N,N,N,N,N,N
+Boston Trust Walden Funds,3124.21,1995,APAC,10,Y,Y,Y,Y,N,N,N,N,N,N
+Davenport,3114.18,1998,APAC,5,Y,Y,Y,Y,N,N,N,N,N,N
+Horizon Investments,3099.95,2012,US,7,Y,Y,Y,Y,N,N,N,N,N,N
+AAM,3093.91,2006,US,9,Y,Y,Y,Y,N,N,N,N,N,N
+Microsectors,3061.04,2019,US,12,Y,Y,Y,Y,N,N,N,N,N,N
+Brookfield Investment Funds,3058.89,2010,US,5,Y,Y,Y,Y,N,N,N,N,N,N
+Segall Bryant & Hamill,3035.76,1988,US,14,Y,Y,Y,Y,N,N,N,N,N,N
+Adams Funds,2963.97,1929,US,2,N,N,Y,N,Y,Y,N,N,N,Y
+Westwood,2808.99,2001,US,10,N,N,Y,N,Y,Y,N,N,N,Y
+Commerce,2770.72,1994,US,8,N,N,Y,N,Y,Y,N,N,N,Y
+Tekla Capital Management LLC,2769.91,1987,US,4,N,N,Y,N,Y,Y,N,N,N,Y
+Ave Maria Mutual Funds,2736.74,2001,US,6,N,N,Y,N,Y,Y,N,N,N,Y
+Kopernik,2721.77,2013,US,2,N,N,Y,N,Y,Y,N,N,N,Y
+Homestead,2704.14,1990,US,10,N,N,Y,N,Y,Y,N,N,N,Y
+Aquila,2639.7,1985,US,9,N,N,Y,N,Y,Y,N,N,N,Y
+Domini,2583.19,1991,US,5,N,N,Y,N,Y,Y,N,N,N,Y
+LSV Fund,2581.34,1999,US,7,N,N,Y,N,Y,Y,N,N,N,Y
+Madison Funds,2551.22,1978,US,15,N,N,Y,N,Y,Y,N,N,N,Y
+Meeder Funds,2501.02,1985,US,10,N,N,Y,N,Y,Y,N,N,N,Y
+The Pacific Financial Group,2410.08,2017,US,12,N,N,Y,N,Y,Y,N,N,N,Y
+iM Global Partner Fund Management,2405.02,1996,US,10,N,N,Y,N,Y,Y,N,N,N,Y
+Abbey Capital,2354.57,2014,US,2,N,N,Y,N,Y,Y,N,N,N,Y
+FAM,2336.35,1987,US,3,N,N,Y,N,Y,Y,N,N,N,Y
+Shelton Capital Management,2326.83,1985,APAC,12,N,N,Y,N,Y,Y,N,N,N,Y
+Thompson IM,2317.85,1992,APAC,3,N,N,Y,N,Y,Y,N,N,N,Y
+MFS Investment Management,2300.41,2021,APAC,1,N,N,Y,N,Y,Y,N,N,N,Y
+Clarkston Funds,2293.12,2015,APAC,3,N,N,Y,N,Y,Y,N,N,N,Y
+Sit,2286.82,1982,APAC,14,N,N,Y,N,Y,Y,N,N,N,Y
+MFS Heritage Trust Co,2275.69,2021,APAC,1,N,N,Y,N,Y,Y,N,N,N,Y
+Praxis Mutual Funds,2262.38,1999,APAC,8,N,N,Y,N,Y,Y,N,N,N,Y
+Vulcan Value Partners,2261.94,2009,APAC,2,N,N,N,N,Y,Y,N,N,N,N
+PNC Funds,2220.64,1994,APAC,8,N,N,N,N,Y,Y,N,N,N,N
+Sprott,2213.26,1998,APAC,4,N,N,N,N,Y,Y,N,N,N,N
+Symmetry Partners,2185.3,2018,APAC,8,N,N,N,N,Y,Y,N,N,N,N
+ProFunds,2170.72,1997,APAC,65,N,N,N,N,Y,Y,N,N,N,N
+STONE RIDGE,2168.03,2013,APAC,4,N,N,N,N,Y,Y,N,N,N,N
+PartnerSelect,2148.43,1996,APAC,6,N,N,N,N,Y,Y,N,N,N,N
+Brandes,2128.32,1997,APAC,8,N,N,N,N,Y,Y,N,N,N,N
+Kayne Anderson,2112.12,2004,APAC,3,N,N,N,N,Y,Y,N,N,N,N
+Congress,2062.02,1928,APAC,3,N,N,N,N,Y,Y,N,N,N,N
+Seafarer Funds,2021.73,2012,APAC,2,N,N,N,N,Y,Y,N,N,N,N
+ICM Series Trust,1980.05,1989,APAC,1,N,N,N,N,Y,Y,N,N,N,N
+Timothy Plan,1876.93,1994,APAC,18,N,N,N,N,Y,Y,N,N,N,N
+AlphaCentric Funds,1876.36,2015,APAC,8,N,N,N,N,Y,Y,N,N,N,N
+Reaves Asset Management,1866.07,2004,APAC,2,N,N,N,N,Y,Y,N,N,N,N
+Cullen Funds Trust,1856.45,2003,EUR,6,N,N,N,N,Y,Y,N,N,N,N
+RiverNorth Funds,1854.33,2006,EUR,3,N,N,N,N,Y,Y,N,N,N,N
+Aptus Capital Advisors,1844.36,2016,EUR,4,N,N,N,N,Y,Y,N,N,N,N
+Miller Value Funds,1842.16,1999,EUR,2,N,N,N,N,Y,Y,N,N,N,N
+Arbitrage Fund,1842.09,2000,EUR,3,N,N,N,N,Y,Y,N,N,N,N
+Trust for Credit Unions,1828.53,1991,EUR,2,N,N,N,N,Y,Y,N,N,N,N
+TD Asset Management,1812.36,2006,EUR,1,N,N,N,N,Y,Y,N,N,N,N
+Flaherty & Crumrine,1808.06,1991,EUR,5,N,N,N,N,Y,Y,N,N,N,N
+ALPS Advisors Inc,1801.84,1986,EUR,2,N,N,N,N,Y,Y,N,N,N,N
+Shenkman Funds,1795.04,2012,EUR,2,Y,N,Y,N,N,N,N,Y,N,N
+Salient,1782.31,2001,EUR,6,Y,N,Y,N,N,N,N,Y,N,N
+Dunham Funds,1779.54,2004,EUR,14,Y,N,Y,N,N,N,N,Y,N,N
+Frontier Funds,1774.29,2011,EUR,6,Y,N,Y,N,N,N,N,Y,N,N
+Infinity Q,1763.39,2014,EUR,1,Y,N,Y,N,N,N,N,Y,N,N
+Freedom Funds,1752.4,1987,EUR,1,Y,N,Y,N,N,N,N,Y,N,N
+Independent Franchise Partners,1751.1,2011,EUR,1,Y,N,Y,N,N,N,N,Y,N,N
+Gotham,1749.97,2012,EUR,15,Y,N,Y,N,N,N,N,Y,N,N
+Cabana,1726.65,2020,EUR,8,Y,N,Y,N,N,N,N,Y,N,N
+Aristotle,1718.15,2012,EUR,6,Y,N,Y,N,N,N,N,Y,N,N
+UBS,1714.24,2003,APAC,3.8,Y,N,Y,N,N,N,N,Y,N,N
+ClearBridge,1701.52,2010,APAC,9.7,Y,N,Y,N,N,N,N,Y,N,N
+"Boulder Capital, LLC",1693.94,1972,APAC,4.3,Y,N,Y,N,N,N,N,Y,N,N
+AdvisorShares,1693.57,2010,APAC,3.1,Y,N,Y,N,N,N,N,Y,N,N
+Selected Funds,1685.53,1933,APAC,18,Y,N,Y,N,N,N,N,Y,N,N
+Plan Investment Fund,1670.73,1987,APAC,27.3,Y,N,Y,N,N,N,N,Y,N,N
+Graniteshares,1618.89,2015,APAC,4.7,Y,N,Y,N,N,N,N,Y,N,N
+Boulder Growth & Income Fund,1568.67,1972,APAC,4.4,Y,N,Y,N,N,N,N,Y,N,N
+Fairholme,1547.48,1999,APAC,21.1,Y,N,Y,N,N,N,N,Y,N,N
+CAMBRIA ETF TRUST,1537.85,2013,APAC,7.1,Y,N,Y,N,N,N,N,Y,N,N
+Sands Capital,1520.73,2010,APAC,7.6,Y,N,Y,N,N,N,N,Y,N,N
+Robo Global,1520.08,2013,APAC,2.6,Y,N,Y,N,N,N,N,Y,N,N
+Strategy Shares,1519.6,2018,APAC,4.3,Y,N,Y,N,N,N,N,Y,N,N
+Kinetics,1519.58,1996,APAC,16.3,Y,N,Y,N,N,N,N,Y,N,N
+Rational Funds,1511.41,2001,APAC,3.2,N,Y,N,Y,Y,N,N,N,N,N
+Evoke,1501.62,2019,APAC,2.4,N,Y,N,Y,Y,N,N,N,N,N
+PMC Funds,1454.79,2007,APAC,8.5,N,Y,N,Y,Y,N,N,N,N,N
+Marsico Investment Fund,1453.74,1997,APAC,11,N,Y,N,Y,Y,N,N,N,N,N
+Cornerstone,1447.99,1973,APAC,16.3,N,Y,N,Y,Y,N,N,N,N,N
+Easterly Funds,1443.87,2006,APAC,9.4,N,Y,N,Y,Y,N,N,N,N,N
+Axonic,1436.44,2019,APAC,2.4,N,Y,N,Y,Y,N,N,N,N,N
+Horizon Kinetics,1436.37,2021,APAC,1.4,N,Y,N,Y,Y,N,N,N,N,N
+RiverPark Funds,1432.15,2010,US,10.9,N,Y,N,Y,Y,N,N,N,N,N
+Heartland,1424.34,1984,US,14.4,N,Y,N,Y,Y,N,N,N,N,N
+Simplify Asset Management,1409.49,2020,US,1.1,N,Y,N,Y,Y,N,N,N,N,N
+Swan,1403.12,2012,US,5.4,N,Y,N,Y,Y,N,N,N,N,N
+Jackson Square,1391.1,1993,US,13.2,N,Y,N,Y,Y,N,N,N,N,N
+Vident Financial,1387.7,2013,US,3,N,Y,N,Y,Y,N,N,N,N,N
+"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,8.8,N,Y,N,Y,Y,N,N,N,N,N
+Hambrecht & Quist,1376.55,1987,US,20.4,N,Y,N,Y,Y,N,N,N,N,N
+New Covenant,1375.41,1999,US,5.8,N,Y,N,Y,Y,N,N,N,N,N
+Wealthfront,1340.34,2018,US,3,N,Y,N,Y,Y,N,N,N,N,N
+Third Avenue,1331.98,1990,US,6.6,N,Y,N,Y,Y,N,N,N,N,N
+Franklin Templeton Invts,1309.58,2017,US,2.3,N,Y,N,Y,Y,N,N,N,N,N
+Crossmark Steward Funds,1305.28,1952,US,4.8,N,Y,N,Y,Y,N,N,N,N,N
+Allspring Funds Management LLC,1291.59,2003,US,5.4,N,Y,N,Y,Y,N,N,N,N,N
+IVA Funds,1279.94,2008,US,12.5,N,Y,N,Y,Y,N,N,N,N,N
+Defiance ETFs,1271.41,2018,US,3.1,N,Y,N,Y,Y,N,N,N,N,N
+"ClearBridge Advisors, LLC",1268.16,2010,US,11,N,Y,N,Y,Y,N,N,N,N,N
+Wells Fargo,1261.02,2003,US,11.8,N,Y,N,N,N,N,N,N,Y,N
+Spyglass Capital Management,1250.8,2017,US,4.4,N,Y,N,N,N,N,N,N,Y,N
+Motley Fool,1242.21,2014,US,6.1,N,Y,N,N,N,N,N,N,Y,N
+Advisor Managed Tr(Tactical),1241.97,2011,US,2.6,N,Y,N,N,N,N,N,N,Y,N
+Oberweis,1231.54,1987,US,10.9,N,Y,N,N,N,N,N,N,Y,N
+North Square,1223.93,1994,US,6,N,Y,N,N,N,N,N,N,Y,N
+Tributary Funds,1217.51,1992,US,17,N,Y,N,N,N,N,N,N,Y,N
+Wilshire Mutual Funds,1214.65,1992,US,5.1,N,Y,N,N,N,N,N,N,Y,N
+O'Shares Investments,1208.78,2015,US,2.2,N,Y,N,N,N,N,N,N,Y,N
+Dupree,1207.85,1979,US,14.7,N,Y,N,N,N,N,N,N,Y,N
+Oak Associates,1201.04,1992,US,7.2,N,Y,N,N,N,N,N,N,Y,N
+1290 Funds,1188.78,2014,US,5.4,N,Y,N,N,N,N,N,N,Y,N
+Cambiar Funds,1185.47,1998,US,11.8,N,Y,N,N,N,N,N,N,Y,N
+LKCM,1179.7,1994,US,15.1,N,Y,N,N,N,N,N,N,Y,N
+Alpha Architect,1179.06,2014,US,3.2,N,Y,N,N,N,N,N,N,Y,N
+Highland Funds,1178.5,1998,US,3.1,N,Y,N,N,N,N,N,N,Y,N
+CGM,1160.33,1929,US,30.6,N,Y,N,N,N,N,N,N,Y,N
+Miller Investment,1148.79,2007,US,12.2,N,Y,N,N,N,N,N,N,Y,N
+Sound Shore,1136.91,1985,EUR,30.9,N,Y,N,N,N,N,N,N,Y,N
+Ashmore,1135.13,2010,EUR,8.4,N,Y,N,N,N,N,N,N,Y,N
+Aperture Investors,1132.02,2019,EUR,2.5,N,Y,N,N,N,N,N,N,Y,N
+General American Investors Company Inc,1121.58,1927,EUR,9.4,N,Y,N,N,N,N,N,N,Y,N
+Teucrium,1116.85,2010,EUR,11,N,Y,N,N,N,N,N,N,Y,N
+Chiron Investment Management,1107.18,2015,EUR,5.4,N,Y,N,N,N,N,N,N,Y,N
+Invenomic,1106.95,2017,EUR,5,N,Y,N,N,N,N,N,N,N,N
+Counterpoint Mutual Funds,1101.92,2014,EUR,5.8,N,Y,N,N,N,N,N,N,N,N
+Palmer Square,1101.21,2014,EUR,6.3,N,Y,N,N,N,N,N,N,N,N
+Exchange Traded Concepts,1098.77,2018,EUR,1.4,N,Y,N,N,N,N,N,N,N,N
+Stone Harbor,1091.99,2007,EUR,10,N,Y,N,N,N,N,N,N,N,N
+Emerald,1082.76,1992,EUR,21.2,N,Y,N,N,N,N,N,N,N,N
+"CBRE Clarion Securities, LLC",1073.8,2004,EUR,17.6,N,Y,N,N,N,N,N,N,N,N
+1919 Funds,1068.57,1991,EUR,7,N,Y,N,N,N,N,N,N,N,N
+Catholic Investor,1065.74,2015,EUR,4.9,N,Y,N,N,N,N,N,N,N,N
+Green Century,1062.15,1992,EUR,10.5,N,Y,N,N,N,N,N,N,N,N
+DF Dent Funds,1059.27,2001,EUR,10.5,N,Y,N,N,N,N,N,N,N,N
+Inspire,1054.83,2017,EUR,2.2,N,Y,N,N,N,N,N,N,N,N
+Main Management ETFs,1054.21,2017,EUR,3.5,N,Y,N,N,N,N,N,N,N,N
+Hood River Capital Management,1038.16,2003,US,16.2,N,Y,N,N,N,N,N,N,N,N
+Clipper Fund,1031.16,1984,US,12.4,N,Y,N,N,N,N,N,N,N,N
+Macquarie,1029.06,1993,US,5.7,N,Y,N,N,N,N,N,N,N,N
+RMB Funds,1014.06,1975,US,9,N,Y,N,N,N,N,N,N,N,N
+GuideMark,1011.81,2001,US,5.5,N,Y,N,N,N,N,N,N,N,N
+Coho,1004.78,2013,US,3.3,N,Y,N,N,N,N,N,N,N,N
+Absolute Investment Advisers,985.62,2005,US,4,N,Y,N,N,N,N,N,N,N,N
+Pioneer,979.93,2002,US,9.7,N,Y,N,N,N,N,N,N,N,N
+CBRE Investment Management Listed Real Assets LLC,979.36,2004,US,0.4,N,Y,N,N,N,N,N,N,N,N
+Davis ETFs,967.56,2017,US,5,N,Y,N,N,N,N,N,N,N,N
+Redwood,954.54,2013,US,5.3,N,Y,N,N,N,N,N,N,N,N
+Trillium Mutual Funds,944.44,1999,US,2.4,N,N,N,N,N,N,N,N,Y,N
+Acadian Funds,939.37,1993,US,5.9,N,N,N,N,N,N,N,N,Y,N
+Adhia,920.62,2000,US,21.5,N,N,N,N,N,N,N,N,Y,N
+Yorktown Funds,918.95,1985,US,12.3,N,N,N,N,N,N,N,N,Y,N
+Absolute Strategies,915.06,2005,US,4.1,N,N,N,N,N,N,N,N,Y,N
+WesMark,902.41,1993,US,9,N,N,N,N,N,N,N,N,Y,N
+CRM,898.62,1995,US,7.6,N,N,N,N,N,N,N,N,Y,N
+Chartwell Investment Partners,889.89,1987,US,5.8,N,N,N,N,N,N,N,N,Y,N
+Mondrian,888.51,1992,US,9.9,N,N,N,N,N,N,N,N,Y,N
+Wanger,878.15,1995,US,1.6,N,N,N,N,N,N,N,N,Y,N
+Pzena,872.71,2014,US,7.2,N,N,N,N,N,N,N,N,Y,N
+Victory,863.96,1983,US,9.2,N,N,N,N,N,N,N,N,Y,N
+Hamlin Funds,860.44,2012,US,7.4,N,N,N,N,N,N,N,N,Y,N
+IntegrityVikingFunds,852.25,1990,US,10,N,N,N,N,N,N,N,N,Y,N
+Arden,852.17,2012,US,2.7,N,N,N,N,N,N,N,N,Y,N
+MainGate Trust,849.96,2011,US,11.3,N,N,N,N,N,N,N,N,Y,N
+Blackstone Group Inc,849.52,2011,US,6.1,N,N,N,N,N,N,N,N,Y,N
+BMO Capital Markets Corp.,846.17,2018,US,4.4,N,N,N,N,N,N,N,N,Y,N
+Semper,844.14,2010,US,8.5,N,N,N,N,N,N,N,N,Y,N
+Muzinich,837.77,2013,US,3.7,N,N,N,N,N,N,N,N,Y,N
+"Pacific Investment Management Company, LLC",831.55,2019,US,3.3,N,N,N,N,N,N,N,N,Y,N
+Bramshill Investments,826.1,2016,US,5.5,N,N,N,N,N,N,N,N,Y,N
+Toews Funds,814.47,2010,US,8.5,N,N,N,N,N,N,N,N,Y,N
+Hussman Funds,792.58,2000,US,20.4,N,N,N,N,N,N,N,N,Y,N
+Mirae Asset Global Investments,788.55,2010,US,6.7,N,Y,Y,Y,N,N,N,N,N,N
+M Funds,786.65,1996,US,5.7,N,Y,Y,Y,N,N,N,N,N,N
+Roundhill Investments,780.21,2014,US,1.1,N,Y,Y,Y,N,N,N,N,N,N
+Distillate Capital Partners,779.35,2018,US,2.7,N,Y,Y,Y,N,N,N,N,N,N
+Olstein,771.85,1995,US,9.9,N,Y,Y,Y,N,N,N,N,N,N
+Blackstone Inc,771.19,2011,APAC,3.6,N,Y,Y,Y,N,N,N,N,N,N
+Teton Westwood Funds,762.98,1987,APAC,7.3,N,Y,Y,Y,N,N,N,N,N,N
+Holbrook Holdings,734.69,2016,APAC,5.9,N,Y,Y,Y,N,N,N,N,N,N
+Lyrical,733.3,2013,APAC,9.2,N,Y,Y,Y,N,N,N,N,N,N
+Leuthold,730.8,1995,APAC,6.9,N,Y,Y,Y,N,N,N,N,N,N
+AdvisorOne Funds,726.02,1997,APAC,5,N,Y,Y,Y,N,N,N,N,N,N
+Stadion Funds,723.95,2004,APAC,8.7,N,Y,Y,Y,N,N,N,N,N,N
+CrossingBridge,705.63,2018,APAC,2.6,N,Y,Y,Y,N,N,N,N,N,N
+Merk Funds,703.6,2005,APAC,8.7,N,Y,Y,Y,N,N,N,N,N,N
+Grant Park,701.65,2013,APAC,8.4,N,Y,Y,Y,N,N,N,N,N,N
+AXS,697.87,2008,APAC,3.5,N,Y,Y,Y,N,N,N,N,N,N
+361 Funds,693.58,2014,APAC,7.5,N,Y,Y,Y,N,N,N,N,N,N
+E-Valuator funds,686.93,2012,APAC,9.9,N,Y,Y,Y,N,N,N,N,N,N
+River Canyon,670.24,2014,APAC,0.2,N,Y,Y,Y,N,N,N,N,N,N
+"RiverNorth Capital Management, LLC",669.62,2015,APAC,5.4,N,Y,Y,Y,N,N,N,N,N,N
+Applied Finance Advisors,665.86,2006,APAC,6.6,N,Y,Y,Y,N,N,N,N,N,N
+Spirit of America,647.15,1998,APAC,4.2,N,Y,Y,Y,N,N,N,N,N,N
+Summit Global Investments,646.76,2009,APAC,6.3,N,Y,Y,Y,N,N,N,N,N,N
+ABR,644.38,2015,APAC,3.8,N,Y,Y,Y,N,N,N,N,N,N
+Deer Park,643.57,2015,APAC,6.6,Y,N,N,N,N,N,Y,N,Y,Y
+EMQQ,638.88,2014,APAC,6.8,Y,N,N,N,N,N,Y,N,Y,Y
+Clough Capital,632.71,2004,APAC,12.3,Y,N,N,N,N,N,Y,N,Y,Y
+Altegris,620.17,2011,EUR,6.1,Y,N,N,N,N,N,Y,N,Y,Y
+ICON Funds,611.55,1997,EUR,4.5,Y,N,N,N,N,N,Y,N,Y,Y
+PIA Mutual Funds,605.83,1994,EUR,5,Y,N,N,N,N,N,Y,N,Y,Y
+Columbia,605.04,1975,EUR,45.1,Y,N,N,N,N,N,Y,N,Y,Y
+James Advantage,595.81,1991,EUR,9.9,Y,N,N,N,N,N,Y,N,Y,Y
+BlackRock Asset Management Ireland - ETF,593.75,2016,EUR,14.3,Y,N,N,N,N,N,Y,N,Y,Y
+Euro Pacific Asset Management,574.67,2010,EUR,9,Y,N,N,N,N,N,Y,N,Y,Y
+Boston Common,571.11,2010,EUR,10.4,Y,N,N,N,N,N,Y,N,Y,Y
+John Hancock Investment Management,568.29,2021,EUR,0.1,Y,N,N,N,N,N,Y,N,Y,Y
+AAMA,561.98,2017,EUR,4.9,Y,N,N,N,N,N,Y,N,Y,Y
+Bruce,544.62,1968,EUR,38.4,Y,N,N,N,N,N,Y,N,Y,Y
+ELEMENTS,543.39,2007,EUR,14.6,Y,N,N,N,N,N,Y,N,Y,Y
+Reich & Tang,520.8,1987,EUR,9.2,Y,N,N,N,N,N,Y,N,Y,Y
+Day Hagan,517.87,2014,EUR,2.3,Y,N,N,N,N,N,Y,N,Y,Y
+Keeley,515.73,2007,EUR,11.3,Y,N,N,N,N,N,Y,N,Y,Y
+Reinhartfunds,512.91,2012,EUR,4.8,Y,N,N,N,N,N,Y,N,Y,Y
+Gerstein Fisher,505.59,2010,EUR,0.2,Y,N,N,N,N,N,Y,N,Y,Y
+Crawford,503.53,2004,EUR,6.1,Y,N,N,N,N,N,Y,N,Y,Y
+Tocqueville,494.78,1987,EUR,19,Y,N,N,N,N,N,Y,N,Y,Y
+Scharf Investments,491.19,2011,US,10.2,Y,N,N,N,N,N,Y,N,Y,Y
+Anchor,490.44,2015,US,5.7,Y,N,N,N,N,N,Y,N,Y,Y
+Sofi,490.26,2019,US,3,N,N,N,Y,N,N,Y,N,N,N
+TCM Funds,476.44,2004,US,6.6,N,N,N,Y,N,N,Y,N,N,N
+Liberty Street,471.75,2009,US,8.9,N,N,N,Y,N,N,Y,N,N,N
+Needham,467.06,1996,US,13.4,N,N,N,Y,N,N,Y,N,N,N
+Dearborn Partners,466.12,2013,US,9.2,N,N,N,Y,N,N,Y,N,N,N
+ClearShares,460.36,2017,US,1.8,N,N,N,Y,N,N,Y,N,N,N
+Overlay Shares,456.13,2019,US,2.4,N,N,N,Y,N,N,Y,N,N,N
+"Apollo Credit Management, LLC",452.13,2011,US,10.2,N,N,N,Y,N,N,Y,N,N,N
+Ecofin,449.68,2017,US,1.7,N,N,N,Y,N,N,Y,N,N,N
+FCF Funds,445.87,2016,US,1.3,N,N,N,Y,N,N,Y,N,N,N
+Fiera Capital,444.59,2012,US,4.1,N,N,N,Y,N,N,Y,N,N,N
+Pacific Capital,444.56,1994,US,2.9,N,N,N,Y,N,N,Y,N,N,N
+PineBridge,444.15,2016,US,5.5,N,N,N,Y,N,N,Y,N,N,N
+Columbia Threadneedle Investments,442.03,2009,US,6,N,N,N,Y,N,N,Y,N,N,N
+LeaderShares,440.97,2020,US,1.6,N,N,N,Y,N,N,Y,N,N,N
+Centre Funds,440.13,2011,US,9.9,N,N,N,Y,N,N,Y,N,N,N
+Polaris Funds,439.38,1998,US,11.7,N,N,N,Y,N,N,Y,N,N,N
+YCG FUNDS,438.53,2012,US,9.4,N,N,N,Y,N,N,Y,N,N,N
+Engine No. 1 ETF,434.89,2021,US,0.8,N,N,N,Y,N,N,Y,N,N,N
+Intrepid Funds,433.63,2005,APAC,3.8,N,N,N,Y,N,N,Y,N,N,N
+"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,6.1,N,N,N,Y,N,N,Y,N,N,N
+Beacon Investment Advisory,430.16,2017,APAC,4.7,N,N,N,Y,N,N,Y,N,N,N
+AAAMCO,426.29,2017,APAC,4.2,N,N,N,Y,N,N,N,N,N,Y
+Ninety One,419.46,2017,APAC,4.2,N,N,N,Y,N,N,N,N,N,Y
+New Alternatives,415.61,1982,APAC,25.6,N,N,N,Y,N,N,N,N,N,Y
+CBOE Vest,408.32,2016,APAC,4.9,N,N,N,Y,N,N,N,N,N,Y
+ARGA,406.07,2021,APAC,1,N,N,N,Y,N,N,N,N,N,Y
+Adaptive ETF,405.51,2009,APAC,9.9,N,N,N,Y,N,N,N,N,N,Y
+FS Investments,403.37,2017,APAC,4.8,N,N,N,Y,N,N,N,N,N,Y
+Bright Rock,403.21,2010,APAC,11.6,N,N,N,Y,N,N,N,N,N,Y
+Aberdeen Asset Management (Part of Aberdeen Standard Investments),401.95,1989,APAC,3.5,N,N,N,Y,N,N,N,N,N,Y
+Hodges,401.58,1992,APAC,14.4,N,N,N,Y,N,N,N,N,N,Y
+Perpetual Funds,398.35,2021,APAC,0.1,N,N,N,Y,N,N,N,N,N,Y
+Oak Ridge Funds,398.09,1994,APAC,18.3,N,N,N,Y,N,N,N,N,N,Y
+AllianzIM,397.69,2020,APAC,1.4,N,N,N,Y,N,N,N,N,N,Y
+Poplar Forest Capital,396.29,2009,APAC,6.4,N,N,N,Y,N,N,N,N,N,Y
+"Saba Capital Management, LP",392.97,1988,APAC,8.1,N,N,N,Y,N,N,N,N,N,Y
+Fund X,390.89,2001,APAC,19.6,N,N,N,Y,N,N,N,N,N,Y
+Standpoint Asset Management,390.08,2019,APAC,2.4,N,N,N,Y,N,N,N,N,N,Y
+Ladenburg Thalmann,386.12,2010,APAC,6.8,N,N,N,Y,N,N,N,N,N,Y
+SARK ETF,384.95,2021,US,0.6,N,N,N,Y,N,N,N,N,N,Y
+Campbell & Company,383.83,2013,US,2.1,N,N,N,Y,N,N,N,N,N,Y
+Potomac Fund Management Inc.,379.15,2020,US,1.9,N,N,N,Y,N,N,N,N,N,Y
+First Western Capital Mgt,374.8,2012,US,7.2,N,N,N,Y,N,N,N,N,N,Y
+Nottingham,371.73,2009,US,9.2,N,N,N,Y,N,N,N,N,N,Y
+Regents Park Funds,370.99,2017,US,2.2,N,N,N,Y,N,N,N,N,N,Y
+North Star,369.67,2011,US,9.5,N,N,N,Y,N,N,N,N,N,N
+Oakhurst,368.21,2012,US,7.6,N,N,N,Y,N,N,N,N,N,N
+Boyd Watterson,366.99,2016,US,4.9,N,N,N,Y,N,N,N,N,N,N
+Ivy Funds,366.24,2000,US,2.1,N,N,N,Y,N,N,N,N,N,N
+SouthernSun Asset Management,363.58,2003,US,9.3,N,N,N,Y,N,N,N,N,N,N
+First Pacific,358.07,1968,US,6.5,N,N,N,Y,N,N,N,N,N,N
+"Angel Oak Capital Advisors, LLC",354.33,2019,US,2.7,N,N,N,Y,N,N,N,N,N,N
+"Aperture Investors, LLC",352.6,2019,US,0.2,N,N,N,Y,N,N,N,N,N,N
+AGRA,351.71,2021,US,0.7,N,N,N,Y,N,N,N,N,N,N
+Macquarie Invt Mgmt global Ltd(MIMGL),351.53,2005,US,0,N,N,N,Y,N,N,N,N,N,N
+Cromwell Funds,350.37,1997,US,14.1,N,N,N,Y,N,N,N,N,N,N
+DGI,348.36,2011,US,8,N,N,N,Y,N,N,N,N,N,N
+Oriental Trust,347.11,2021,US,1,N,N,N,Y,N,N,N,N,N,N
+SouthernSunFunds,344.38,2003,US,9.2,N,N,N,Y,N,N,N,N,N,N
