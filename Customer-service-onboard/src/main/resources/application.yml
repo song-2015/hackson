@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: customer-service-onboard
+  pidfile: ${spring.application.name}.pid
+
+server:
+  port: 80
+
+db:
+  username: ssaevolution
+  password: Allowme$0001
+  instance: postgres
+  url: jdbc:postgresql://evolution.postgres.database.azure.com:5432/postgres
+  driver: org.postgresql.Driver
+
+springdoc:
+  packagesToScan: com.hackson
+  pathsToMatch: /**

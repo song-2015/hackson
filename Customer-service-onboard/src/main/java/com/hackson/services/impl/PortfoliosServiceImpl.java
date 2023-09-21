@@ -24,10 +24,9 @@ public class PortfoliosServiceImpl implements PortfoliosService {
         List<PortfolioCountDomain> result = new ArrayList<>();
         countList.forEach(countObj -> {
             String name = String.valueOf(countObj.get(0));
-            Double revenue = Double.valueOf((Double) countObj.get(1));
-            Double cost = Double.valueOf((Double) countObj.get(2));
+            Integer clientCount = (Integer) countObj.get(1);
 
-            result.add(new PortfolioCountDomain(name, revenue, cost));
+            result.add(new PortfolioCountDomain(name, clientCount));
         });
 
         return result;

@@ -7,7 +7,7 @@ import javax.persistence.Id;
 /**
  * Created by song on 2023/9/21.
  */
-@Entity
+@Entity(name = "ssa_portfolios")
 public class PortfolioEntity {
     @Id
     private String portfolioId;
@@ -15,7 +15,6 @@ public class PortfolioEntity {
     private String clientId;
     private String clientName;
     private Double revenue;
-    private Double cost;
 
     public String getPortfolioId() {
         return portfolioId;
@@ -57,11 +56,4 @@ public class PortfolioEntity {
         this.revenue = revenue;
     }
 
-    public Double getCost() {
-        return cost;
-    }
-
-    public void setCost(Double cost) {
-        this.cost = cost;
-    }
 }

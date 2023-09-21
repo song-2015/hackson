@@ -1,15 +1,20 @@
 package com.hackson.entity;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
 /**
  * Created by song on 2023/9/21.
  */
+@Entity(name = "ssa_clients")
 public class ClientEntity {
+    @Id
     private String clientId;
     private String clientName;
     private Double netAssets;
-    private String establishTime;
+    private String establishedTime;
     private String region;
-    private Integer numberOfFunds;
+    private Integer numOfFunds;
 
     public String getClientId() {
         return clientId;
@@ -35,12 +40,12 @@ public class ClientEntity {
         this.netAssets = netAssets;
     }
 
-    public String getEstablishTime() {
-        return establishTime;
+    public String getEstablishedTime() {
+        return establishedTime;
     }
 
-    public void setEstablishTime(String establishTime) {
-        this.establishTime = establishTime;
+    public void setEstablishedTime(String establishedTime) {
+        this.establishedTime = establishedTime;
     }
 
     public String getRegion() {
@@ -51,11 +56,11 @@ public class ClientEntity {
         this.region = region;
     }
 
-    public Integer getNumberOfFunds() {
-        return numberOfFunds;
+    public Integer getNumOfFunds() {
+        return numOfFunds;
     }
 
-    public void setNumberOfFunds(Integer numberOfFunds) {
-        this.numberOfFunds = numberOfFunds;
+    public void setNumOfFunds(Integer numOfFunds) {
+        this.numOfFunds = numOfFunds;
     }
 }
