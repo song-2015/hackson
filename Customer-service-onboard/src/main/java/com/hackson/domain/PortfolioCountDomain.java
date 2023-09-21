@@ -6,15 +6,14 @@ package com.hackson.domain;
 public class PortfolioCountDomain {
 
     private String serviceName;
-    private Double revenueTotal;
-    private Double cost;
+    private Integer clientNum;
+
 
     public PortfolioCountDomain() {}
 
-    public PortfolioCountDomain(String serviceName, Double revenue, Double cost) {
+    public PortfolioCountDomain(String serviceName, Integer clientCount) {
         this.serviceName = serviceName;
-        this.revenueTotal = revenue;
-        this.cost = cost;
+        this.clientNum = clientCount;
     }
 
     public String getServiceName() {
@@ -25,19 +24,11 @@ public class PortfolioCountDomain {
         this.serviceName = serviceName;
     }
 
-    public Double getRevenueTotal() {
-        return revenueTotal;
+    public void setClientNum(Integer clientNum) {
+        this.clientNum = clientNum;
     }
 
-    public void setRevenueTotal(Double revenueTotal) {
-        this.revenueTotal = revenueTotal;
-    }
-
-    public Double getCost() {
-        return cost;
-    }
-
-    public void setCost(Double cost) {
-        this.cost = cost;
+    public Integer getClientNum() {
+        return clientNum;
     }
 }

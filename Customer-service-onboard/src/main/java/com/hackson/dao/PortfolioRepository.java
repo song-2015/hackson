@@ -11,6 +11,6 @@ import java.util.List;
  */
 public interface PortfolioRepository extends JpaRepository<PortfolioEntity, String> {
 
-    @Query(value = "select service_name, count(*), sum(revenue) from XX group by service_name", nativeQuery = true)
+    @Query(value = "select service_name, count(*) from ssa_portfolios group by service_name", nativeQuery = true)
     List<List<Object>> countByServiceName();
 }

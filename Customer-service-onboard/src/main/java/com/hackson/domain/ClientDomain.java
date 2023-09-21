@@ -8,7 +8,7 @@ import org.springframework.beans.BeanUtils;
  */
 public class ClientDomain extends BaseClientDomain {
     private Double netAssets;
-    private String establishTime;
+    private String establishedTime;
     private String region;
     private Integer numberOfFunds;
     private Double predict;
@@ -27,12 +27,12 @@ public class ClientDomain extends BaseClientDomain {
         this.netAssets = netAssets;
     }
 
-    public String getEstablishTime() {
-        return establishTime;
+    public String getEstablishedTime() {
+        return establishedTime;
     }
 
-    public void setEstablishTime(String establishTime) {
-        this.establishTime = establishTime;
+    public void setEstablishedTime(String establishedTime) {
+        this.establishedTime = establishedTime;
     }
 
     public String getRegion() {

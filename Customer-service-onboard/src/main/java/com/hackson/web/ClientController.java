@@ -32,7 +32,7 @@ public class ClientController {
             return null;
         }
         Optional<ClientEntity> optional = clientRepository.findById(clientId);
-        return optional.isPresent() ? new ClientDomain(optional.get()) : null;
+        return optional.map(ClientDomain::new).orElse(null);
 
     }
 
@@ -40,15 +40,15 @@ public class ClientController {
     public List<ClientCustomValDomain> clientCustomVal() {
         Map<String, Double> valueMap = machineLearnRemote.getCustomValue();
 
-        Map<String, ClientEntity> allClients = new HashMap<>();
-        clientRepository.findAll().forEach(clientEntity -> allClients.put(clientEntity.getClientId(), clientEntity));
+        List<ClientEntity> allClients = clientRepository.findAll();
 
         List<ClientCustomValDomain> result = new ArrayList<>();
-        if (null != valueMap && !valueMap.isEmpty()) {
-            valueMap.forEach((clientId, customValue) -> {
-                result.add(new ClientCustomValDomain(allClients.get(clientId), customValue));
-            });
-        }
+
+        allClients.forEach(clientEntity -> {
+            Double customValue = valueMap.get(clientEntity.getClientId());
+            result.add(new ClientCustomValDomain(clientEntity, customValue));
+        });
+
 
         return result;
     }
