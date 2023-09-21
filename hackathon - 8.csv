@@ -1,4 +1,3 @@
-ClientName,NetAssets,EstablishedTime,Region,NumberOfFunds,service,flag
 Vanguard,7586623.06,1929,US,183,InvestmentServicing,Y
 Vanguard,7586623.06,1929,US,183,Custody,Y
 Vanguard,7586623.06,1929,US,183,ETFSolutionsCost,N
@@ -29,16 +28,16 @@ American Funds,2352274.51,1934,US,69,DigitalExperience,Y
 American Funds,2352274.51,1934,US,69,PortfolioSolutions,N
 American Funds,2352274.51,1934,US,69,FXServices,N
 American Funds,2352274.51,1934,US,69,FinancingCollateralServices,Y
-iShares,2247698.42,1996,InvestmentServicing,EUR,FinancingCollateralServices,Y
-iShares,2247698.42,1996,Custody,386,FinancingCollateralServices,Y
-iShares,2247698.42,1996,ETFSolutionsCost,N,FinancingCollateralServices,Y
-iShares,2247698.42,1996,FundAccounting,Y,FinancingCollateralServices,Y
-iShares,2247698.42,1996,RiskAnalytics,N,FinancingCollateralServices,Y
-iShares,2247698.42,1996,MultiAssetClassAnalytics,N,FinancingCollateralServices,Y
-iShares,2247698.42,1996,DigitalExperience,Y,FinancingCollateralServices,Y
-iShares,2247698.42,1996,PortfolioSolutions,Y,FinancingCollateralServices,Y
-iShares,2247698.42,1996,FXServices,Y,FinancingCollateralServices,Y
-iShares,2247698.42,1996,FinancingCollateralServices,N,FinancingCollateralServices,Y
+iShares,2247698.42,1996,EUR,386,InvestmentServicing,N
+iShares,2247698.42,1996,EUR,386,Custody,Y
+iShares,2247698.42,1996,EUR,386,ETFSolutionsCost,N
+iShares,2247698.42,1996,EUR,386,FundAccounting,N
+iShares,2247698.42,1996,EUR,386,RiskAnalytics,Y
+iShares,2247698.42,1996,EUR,386,MultiAssetClassAnalytics,Y
+iShares,2247698.42,1996,EUR,386,DigitalExperience,Y
+iShares,2247698.42,1996,EUR,386,PortfolioSolutions,N
+iShares,2247698.42,1996,EUR,386,FXServices,N
+iShares,2247698.42,1996,EUR,386,FinancingCollateralServices,Y
 State Street Global Advisors,1229128.21,1935,EUR,188,InvestmentServicing,N
 State Street Global Advisors,1229128.21,1935,EUR,188,Custody,Y
 State Street Global Advisors,1229128.21,1935,EUR,188,ETFSolutionsCost,N
@@ -689,16 +688,16 @@ UBS Asset Management,43500.45,1972,EUR,47,DigitalExperience,Y
 UBS Asset Management,43500.45,1972,EUR,47,PortfolioSolutions,Y
 UBS Asset Management,43500.45,1972,EUR,47,FXServices,Y
 UBS Asset Management,43500.45,1972,EUR,47,FinancingCollateralServices,Y
-"Wilmington Trust, N.A",42493.02,2006,US,InvestmentServicing,103,Y
-"Wilmington Trust, N.A",42493.02,2006,US,Custody,Y,Y
-"Wilmington Trust, N.A",42493.02,2006,US,ETFSolutionsCost,N,Y
-"Wilmington Trust, N.A",42493.02,2006,US,FundAccounting,N,Y
-"Wilmington Trust, N.A",42493.02,2006,US,RiskAnalytics,N,Y
-"Wilmington Trust, N.A",42493.02,2006,US,MultiAssetClassAnalytics,N,Y
-"Wilmington Trust, N.A",42493.02,2006,US,DigitalExperience,Y,Y
-"Wilmington Trust, N.A",42493.02,2006,US,PortfolioSolutions,Y,Y
-"Wilmington Trust, N.A",42493.02,2006,US,FXServices,Y,Y
-"Wilmington Trust, N.A",42493.02,2006,US,FinancingCollateralServices,Y,Y
+"Wilmington Trust, N.A",42493.02,2006,US,103,InvestmentServicing,Y
+"Wilmington Trust, N.A",42493.02,2006,US,103,Custody,N
+"Wilmington Trust, N.A",42493.02,2006,US,103,ETFSolutionsCost,N
+"Wilmington Trust, N.A",42493.02,2006,US,103,FundAccounting,N
+"Wilmington Trust, N.A",42493.02,2006,US,103,RiskAnalytics,N
+"Wilmington Trust, N.A",42493.02,2006,US,103,MultiAssetClassAnalytics,Y
+"Wilmington Trust, N.A",42493.02,2006,US,103,DigitalExperience,Y
+"Wilmington Trust, N.A",42493.02,2006,US,103,PortfolioSolutions,Y
+"Wilmington Trust, N.A",42493.02,2006,US,103,FXServices,Y
+"Wilmington Trust, N.A",42493.02,2006,US,103,FinancingCollateralServices,Y
 Old Westbury,41511.13,1993,EUR,8,InvestmentServicing,N
 Old Westbury,41511.13,1993,EUR,8,Custody,Y
 Old Westbury,41511.13,1993,EUR,8,ETFSolutionsCost,N
@@ -789,16 +788,16 @@ MassMutual,37238.75,1994,EUR,73,DigitalExperience,N
 MassMutual,37238.75,1994,EUR,73,PortfolioSolutions,Y
 MassMutual,37238.75,1994,EUR,73,FXServices,Y
 MassMutual,37238.75,1994,EUR,73,FinancingCollateralServices,Y
-"Baron Capital Group, Inc.",36457.43,1987,EUR,InvestmentServicing,19,Y
-"Baron Capital Group, Inc.",36457.43,1987,EUR,Custody,N,Y
-"Baron Capital Group, Inc.",36457.43,1987,EUR,ETFSolutionsCost,Y,Y
-"Baron Capital Group, Inc.",36457.43,1987,EUR,FundAccounting,N,Y
-"Baron Capital Group, Inc.",36457.43,1987,EUR,RiskAnalytics,N,Y
-"Baron Capital Group, Inc.",36457.43,1987,EUR,MultiAssetClassAnalytics,N,Y
-"Baron Capital Group, Inc.",36457.43,1987,EUR,DigitalExperience,N,Y
-"Baron Capital Group, Inc.",36457.43,1987,EUR,PortfolioSolutions,N,Y
-"Baron Capital Group, Inc.",36457.43,1987,EUR,FXServices,Y,Y
-"Baron Capital Group, Inc.",36457.43,1987,EUR,FinancingCollateralServices,Y,Y
+"Baron Capital Group, Inc.",36457.43,1987,EUR,19,InvestmentServicing,N
+"Baron Capital Group, Inc.",36457.43,1987,EUR,19,Custody,Y
+"Baron Capital Group, Inc.",36457.43,1987,EUR,19,ETFSolutionsCost,N
+"Baron Capital Group, Inc.",36457.43,1987,EUR,19,FundAccounting,N
+"Baron Capital Group, Inc.",36457.43,1987,EUR,19,RiskAnalytics,N
+"Baron Capital Group, Inc.",36457.43,1987,EUR,19,MultiAssetClassAnalytics,N
+"Baron Capital Group, Inc.",36457.43,1987,EUR,19,DigitalExperience,N
+"Baron Capital Group, Inc.",36457.43,1987,EUR,19,PortfolioSolutions,Y
+"Baron Capital Group, Inc.",36457.43,1987,EUR,19,FXServices,Y
+"Baron Capital Group, Inc.",36457.43,1987,EUR,19,FinancingCollateralServices,Y
 GMO,35936.18,1985,EUR,29,InvestmentServicing,N
 GMO,35936.18,1985,EUR,29,Custody,Y
 GMO,35936.18,1985,EUR,29,ETFSolutionsCost,N
@@ -1479,16 +1478,16 @@ Innovator ETFs,7327.84,2015,US,87,DigitalExperience,N
 Innovator ETFs,7327.84,2015,US,87,PortfolioSolutions,N
 Innovator ETFs,7327.84,2015,US,87,FXServices,Y
 Innovator ETFs,7327.84,2015,US,87,FinancingCollateralServices,N
-"Tweedy, Browne",7157.44,1993,APAC,InvestmentServicing,4,N
-"Tweedy, Browne",7157.44,1993,APAC,Custody,Y,N
-"Tweedy, Browne",7157.44,1993,APAC,ETFSolutionsCost,N,N
-"Tweedy, Browne",7157.44,1993,APAC,FundAccounting,N,N
-"Tweedy, Browne",7157.44,1993,APAC,RiskAnalytics,N,N
-"Tweedy, Browne",7157.44,1993,APAC,MultiAssetClassAnalytics,Y,N
-"Tweedy, Browne",7157.44,1993,APAC,DigitalExperience,N,N
-"Tweedy, Browne",7157.44,1993,APAC,PortfolioSolutions,N,N
-"Tweedy, Browne",7157.44,1993,APAC,FXServices,N,N
-"Tweedy, Browne",7157.44,1993,APAC,FinancingCollateralServices,Y,N
+"Tweedy, Browne",7157.44,1993,APAC,4,InvestmentServicing,Y
+"Tweedy, Browne",7157.44,1993,APAC,4,Custody,N
+"Tweedy, Browne",7157.44,1993,APAC,4,ETFSolutionsCost,N
+"Tweedy, Browne",7157.44,1993,APAC,4,FundAccounting,N
+"Tweedy, Browne",7157.44,1993,APAC,4,RiskAnalytics,Y
+"Tweedy, Browne",7157.44,1993,APAC,4,MultiAssetClassAnalytics,N
+"Tweedy, Browne",7157.44,1993,APAC,4,DigitalExperience,N
+"Tweedy, Browne",7157.44,1993,APAC,4,PortfolioSolutions,N
+"Tweedy, Browne",7157.44,1993,APAC,4,FXServices,Y
+"Tweedy, Browne",7157.44,1993,APAC,4,FinancingCollateralServices,N
 FMI Funds,7059.02,1981,APAC,4,InvestmentServicing,Y
 FMI Funds,7059.02,1981,APAC,4,Custody,N
 FMI Funds,7059.02,1981,APAC,4,ETFSolutionsCost,N
@@ -1639,16 +1638,16 @@ Newton Investment Management (North America) Limited,5614.12,1988,APAC,2,Digital
 Newton Investment Management (North America) Limited,5614.12,1988,APAC,2,PortfolioSolutions,Y
 Newton Investment Management (North America) Limited,5614.12,1988,APAC,2,FXServices,N
 Newton Investment Management (North America) Limited,5614.12,1988,APAC,2,FinancingCollateralServices,N
-"PT Asset Management, LLC (PTAM)",5356,2010,US,InvestmentServicing,2,N
-"PT Asset Management, LLC (PTAM)",5356,2010,US,Custody,N,N
-"PT Asset Management, LLC (PTAM)",5356,2010,US,ETFSolutionsCost,Y,N
-"PT Asset Management, LLC (PTAM)",5356,2010,US,FundAccounting,Y,N
-"PT Asset Management, LLC (PTAM)",5356,2010,US,RiskAnalytics,N,N
-"PT Asset Management, LLC (PTAM)",5356,2010,US,MultiAssetClassAnalytics,N,N
-"PT Asset Management, LLC (PTAM)",5356,2010,US,DigitalExperience,N,N
-"PT Asset Management, LLC (PTAM)",5356,2010,US,PortfolioSolutions,N,N
-"PT Asset Management, LLC (PTAM)",5356,2010,US,FXServices,Y,N
-"PT Asset Management, LLC (PTAM)",5356,2010,US,FinancingCollateralServices,N,N
+"PT Asset Management, LLC (PTAM)",5356,2010,US,2,InvestmentServicing,N
+"PT Asset Management, LLC (PTAM)",5356,2010,US,2,Custody,Y
+"PT Asset Management, LLC (PTAM)",5356,2010,US,2,ETFSolutionsCost,Y
+"PT Asset Management, LLC (PTAM)",5356,2010,US,2,FundAccounting,N
+"PT Asset Management, LLC (PTAM)",5356,2010,US,2,RiskAnalytics,N
+"PT Asset Management, LLC (PTAM)",5356,2010,US,2,MultiAssetClassAnalytics,N
+"PT Asset Management, LLC (PTAM)",5356,2010,US,2,DigitalExperience,N
+"PT Asset Management, LLC (PTAM)",5356,2010,US,2,PortfolioSolutions,Y
+"PT Asset Management, LLC (PTAM)",5356,2010,US,2,FXServices,N
+"PT Asset Management, LLC (PTAM)",5356,2010,US,2,FinancingCollateralServices,N
 Capital Group,5340.54,1986,APAC,13,InvestmentServicing,N
 Capital Group,5340.54,1986,APAC,13,Custody,Y
 Capital Group,5340.54,1986,APAC,13,ETFSolutionsCost,Y
@@ -1739,16 +1738,16 @@ ETFMG,4731.92,2012,APAC,21,DigitalExperience,N
 ETFMG,4731.92,2012,APAC,21,PortfolioSolutions,Y
 ETFMG,4731.92,2012,APAC,21,FXServices,N
 ETFMG,4731.92,2012,APAC,21,FinancingCollateralServices,N
-"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,InvestmentServicing,8,N
-"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,Custody,N,N
-"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,ETFSolutionsCost,N,N
-"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,FundAccounting,N,N
-"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,RiskAnalytics,Y,N
-"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,MultiAssetClassAnalytics,N,N
-"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,DigitalExperience,N,N
-"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,PortfolioSolutions,N,N
-"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,FXServices,N,N
-"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,FinancingCollateralServices,N,N
+"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,8,InvestmentServicing,N
+"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,8,Custody,N
+"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,8,ETFSolutionsCost,N
+"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,8,FundAccounting,Y
+"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,8,RiskAnalytics,N
+"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,8,MultiAssetClassAnalytics,N
+"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,8,DigitalExperience,N
+"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,8,PortfolioSolutions,N
+"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,8,FXServices,N
+"Tortoise Capital Advisors, LLC",4699.86,2004,APAC,8,FinancingCollateralServices,N
 Virtus Funds,4671.71,1989,US,4,InvestmentServicing,N
 Virtus Funds,4671.71,1989,US,4,Custody,N
 Virtus Funds,4671.71,1989,US,4,ETFSolutionsCost,N
@@ -2819,16 +2818,16 @@ ClearBridge,1701.52,2010,APAC,9.7,DigitalExperience,N
 ClearBridge,1701.52,2010,APAC,9.7,PortfolioSolutions,Y
 ClearBridge,1701.52,2010,APAC,9.7,FXServices,N
 ClearBridge,1701.52,2010,APAC,9.7,FinancingCollateralServices,N
-"Boulder Capital, LLC",1693.94,1972,APAC,InvestmentServicing,4.3,N
-"Boulder Capital, LLC",1693.94,1972,APAC,Custody,Y,N
-"Boulder Capital, LLC",1693.94,1972,APAC,ETFSolutionsCost,N,N
-"Boulder Capital, LLC",1693.94,1972,APAC,FundAccounting,Y,N
-"Boulder Capital, LLC",1693.94,1972,APAC,RiskAnalytics,N,N
-"Boulder Capital, LLC",1693.94,1972,APAC,MultiAssetClassAnalytics,N,N
-"Boulder Capital, LLC",1693.94,1972,APAC,DigitalExperience,N,N
-"Boulder Capital, LLC",1693.94,1972,APAC,PortfolioSolutions,N,N
-"Boulder Capital, LLC",1693.94,1972,APAC,FXServices,Y,N
-"Boulder Capital, LLC",1693.94,1972,APAC,FinancingCollateralServices,N,N
+"Boulder Capital, LLC",1693.94,1972,APAC,4.3,InvestmentServicing,Y
+"Boulder Capital, LLC",1693.94,1972,APAC,4.3,Custody,N
+"Boulder Capital, LLC",1693.94,1972,APAC,4.3,ETFSolutionsCost,Y
+"Boulder Capital, LLC",1693.94,1972,APAC,4.3,FundAccounting,N
+"Boulder Capital, LLC",1693.94,1972,APAC,4.3,RiskAnalytics,N
+"Boulder Capital, LLC",1693.94,1972,APAC,4.3,MultiAssetClassAnalytics,N
+"Boulder Capital, LLC",1693.94,1972,APAC,4.3,DigitalExperience,N
+"Boulder Capital, LLC",1693.94,1972,APAC,4.3,PortfolioSolutions,Y
+"Boulder Capital, LLC",1693.94,1972,APAC,4.3,FXServices,N
+"Boulder Capital, LLC",1693.94,1972,APAC,4.3,FinancingCollateralServices,N
 AdvisorShares,1693.57,2010,APAC,3.1,InvestmentServicing,Y
 AdvisorShares,1693.57,2010,APAC,3.1,Custody,N
 AdvisorShares,1693.57,2010,APAC,3.1,ETFSolutionsCost,Y
@@ -3079,16 +3078,16 @@ Vident Financial,1387.7,2013,US,3,DigitalExperience,N
 Vident Financial,1387.7,2013,US,3,PortfolioSolutions,N
 Vident Financial,1387.7,2013,US,3,FXServices,N
 Vident Financial,1387.7,2013,US,3,FinancingCollateralServices,N
-"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,InvestmentServicing,8.8,N
-"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,Custody,N,N
-"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,ETFSolutionsCost,Y,N
-"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,FundAccounting,N,N
-"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,RiskAnalytics,Y,N
-"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,MultiAssetClassAnalytics,Y,N
-"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,DigitalExperience,N,N
-"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,PortfolioSolutions,N,N
-"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,FXServices,N,N
-"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,FinancingCollateralServices,N,N
+"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,8.8,InvestmentServicing,N
+"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,8.8,Custody,Y
+"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,8.8,ETFSolutionsCost,N
+"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,8.8,FundAccounting,Y
+"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,8.8,RiskAnalytics,Y
+"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,8.8,MultiAssetClassAnalytics,N
+"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,8.8,DigitalExperience,N
+"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,8.8,PortfolioSolutions,N
+"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,8.8,FXServices,N
+"Highland Capital Management Fund Advisors, L.P.",1382.49,1998,US,8.8,FinancingCollateralServices,N
 Hambrecht & Quist,1376.55,1987,US,20.4,InvestmentServicing,N
 Hambrecht & Quist,1376.55,1987,US,20.4,Custody,Y
 Hambrecht & Quist,1376.55,1987,US,20.4,ETFSolutionsCost,N
@@ -3179,16 +3178,16 @@ Defiance ETFs,1271.41,2018,US,3.1,DigitalExperience,N
 Defiance ETFs,1271.41,2018,US,3.1,PortfolioSolutions,N
 Defiance ETFs,1271.41,2018,US,3.1,FXServices,N
 Defiance ETFs,1271.41,2018,US,3.1,FinancingCollateralServices,N
-"ClearBridge Advisors, LLC",1268.16,2010,US,InvestmentServicing,11,N
-"ClearBridge Advisors, LLC",1268.16,2010,US,Custody,N,N
-"ClearBridge Advisors, LLC",1268.16,2010,US,ETFSolutionsCost,Y,N
-"ClearBridge Advisors, LLC",1268.16,2010,US,FundAccounting,N,N
-"ClearBridge Advisors, LLC",1268.16,2010,US,RiskAnalytics,Y,N
-"ClearBridge Advisors, LLC",1268.16,2010,US,MultiAssetClassAnalytics,Y,N
-"ClearBridge Advisors, LLC",1268.16,2010,US,DigitalExperience,N,N
-"ClearBridge Advisors, LLC",1268.16,2010,US,PortfolioSolutions,N,N
-"ClearBridge Advisors, LLC",1268.16,2010,US,FXServices,N,N
-"ClearBridge Advisors, LLC",1268.16,2010,US,FinancingCollateralServices,N,N
+"ClearBridge Advisors, LLC",1268.16,2010,US,11,InvestmentServicing,N
+"ClearBridge Advisors, LLC",1268.16,2010,US,11,Custody,Y
+"ClearBridge Advisors, LLC",1268.16,2010,US,11,ETFSolutionsCost,N
+"ClearBridge Advisors, LLC",1268.16,2010,US,11,FundAccounting,Y
+"ClearBridge Advisors, LLC",1268.16,2010,US,11,RiskAnalytics,Y
+"ClearBridge Advisors, LLC",1268.16,2010,US,11,MultiAssetClassAnalytics,N
+"ClearBridge Advisors, LLC",1268.16,2010,US,11,DigitalExperience,N
+"ClearBridge Advisors, LLC",1268.16,2010,US,11,PortfolioSolutions,N
+"ClearBridge Advisors, LLC",1268.16,2010,US,11,FXServices,N
+"ClearBridge Advisors, LLC",1268.16,2010,US,11,FinancingCollateralServices,N
 Wells Fargo,1261.02,2003,US,11.8,InvestmentServicing,N
 Wells Fargo,1261.02,2003,US,11.8,Custody,Y
 Wells Fargo,1261.02,2003,US,11.8,ETFSolutionsCost,N
@@ -3489,16 +3488,16 @@ Emerald,1082.76,1992,EUR,21.2,DigitalExperience,N
 Emerald,1082.76,1992,EUR,21.2,PortfolioSolutions,N
 Emerald,1082.76,1992,EUR,21.2,FXServices,N
 Emerald,1082.76,1992,EUR,21.2,FinancingCollateralServices,N
-"CBRE Clarion Securities, LLC",1073.8,2004,EUR,InvestmentServicing,17.6,N
-"CBRE Clarion Securities, LLC",1073.8,2004,EUR,Custody,N,N
-"CBRE Clarion Securities, LLC",1073.8,2004,EUR,ETFSolutionsCost,Y,N
-"CBRE Clarion Securities, LLC",1073.8,2004,EUR,FundAccounting,N,N
-"CBRE Clarion Securities, LLC",1073.8,2004,EUR,RiskAnalytics,N,N
-"CBRE Clarion Securities, LLC",1073.8,2004,EUR,MultiAssetClassAnalytics,N,N
-"CBRE Clarion Securities, LLC",1073.8,2004,EUR,DigitalExperience,N,N
-"CBRE Clarion Securities, LLC",1073.8,2004,EUR,PortfolioSolutions,N,N
-"CBRE Clarion Securities, LLC",1073.8,2004,EUR,FXServices,N,N
-"CBRE Clarion Securities, LLC",1073.8,2004,EUR,FinancingCollateralServices,N,N
+"CBRE Clarion Securities, LLC",1073.8,2004,EUR,17.6,InvestmentServicing,N
+"CBRE Clarion Securities, LLC",1073.8,2004,EUR,17.6,Custody,Y
+"CBRE Clarion Securities, LLC",1073.8,2004,EUR,17.6,ETFSolutionsCost,N
+"CBRE Clarion Securities, LLC",1073.8,2004,EUR,17.6,FundAccounting,N
+"CBRE Clarion Securities, LLC",1073.8,2004,EUR,17.6,RiskAnalytics,N
+"CBRE Clarion Securities, LLC",1073.8,2004,EUR,17.6,MultiAssetClassAnalytics,N
+"CBRE Clarion Securities, LLC",1073.8,2004,EUR,17.6,DigitalExperience,N
+"CBRE Clarion Securities, LLC",1073.8,2004,EUR,17.6,PortfolioSolutions,N
+"CBRE Clarion Securities, LLC",1073.8,2004,EUR,17.6,FXServices,N
+"CBRE Clarion Securities, LLC",1073.8,2004,EUR,17.6,FinancingCollateralServices,N
 1919 Funds,1068.57,1991,EUR,7,InvestmentServicing,N
 1919 Funds,1068.57,1991,EUR,7,Custody,Y
 1919 Funds,1068.57,1991,EUR,7,ETFSolutionsCost,N
@@ -3869,16 +3868,16 @@ Muzinich,837.77,2013,US,3.7,DigitalExperience,N
 Muzinich,837.77,2013,US,3.7,PortfolioSolutions,N
 Muzinich,837.77,2013,US,3.7,FXServices,Y
 Muzinich,837.77,2013,US,3.7,FinancingCollateralServices,N
-"Pacific Investment Management Company, LLC",831.55,2019,US,InvestmentServicing,3.3,N
-"Pacific Investment Management Company, LLC",831.55,2019,US,Custody,N,N
-"Pacific Investment Management Company, LLC",831.55,2019,US,ETFSolutionsCost,N,N
-"Pacific Investment Management Company, LLC",831.55,2019,US,FundAccounting,N,N
-"Pacific Investment Management Company, LLC",831.55,2019,US,RiskAnalytics,N,N
-"Pacific Investment Management Company, LLC",831.55,2019,US,MultiAssetClassAnalytics,N,N
-"Pacific Investment Management Company, LLC",831.55,2019,US,DigitalExperience,N,N
-"Pacific Investment Management Company, LLC",831.55,2019,US,PortfolioSolutions,N,N
-"Pacific Investment Management Company, LLC",831.55,2019,US,FXServices,N,N
-"Pacific Investment Management Company, LLC",831.55,2019,US,FinancingCollateralServices,Y,N
+"Pacific Investment Management Company, LLC",831.55,2019,US,3.3,InvestmentServicing,N
+"Pacific Investment Management Company, LLC",831.55,2019,US,3.3,Custody,N
+"Pacific Investment Management Company, LLC",831.55,2019,US,3.3,ETFSolutionsCost,N
+"Pacific Investment Management Company, LLC",831.55,2019,US,3.3,FundAccounting,N
+"Pacific Investment Management Company, LLC",831.55,2019,US,3.3,RiskAnalytics,N
+"Pacific Investment Management Company, LLC",831.55,2019,US,3.3,MultiAssetClassAnalytics,N
+"Pacific Investment Management Company, LLC",831.55,2019,US,3.3,DigitalExperience,N
+"Pacific Investment Management Company, LLC",831.55,2019,US,3.3,PortfolioSolutions,N
+"Pacific Investment Management Company, LLC",831.55,2019,US,3.3,FXServices,Y
+"Pacific Investment Management Company, LLC",831.55,2019,US,3.3,FinancingCollateralServices,N
 Bramshill Investments,826.1,2016,US,5.5,InvestmentServicing,N
 Bramshill Investments,826.1,2016,US,5.5,Custody,N
 Bramshill Investments,826.1,2016,US,5.5,ETFSolutionsCost,N
@@ -4099,16 +4098,16 @@ River Canyon,670.24,2014,APAC,0.2,DigitalExperience,N
 River Canyon,670.24,2014,APAC,0.2,PortfolioSolutions,N
 River Canyon,670.24,2014,APAC,0.2,FXServices,N
 River Canyon,670.24,2014,APAC,0.2,FinancingCollateralServices,N
-"RiverNorth Capital Management, LLC",669.62,2015,APAC,InvestmentServicing,5.4,N
-"RiverNorth Capital Management, LLC",669.62,2015,APAC,Custody,N,N
-"RiverNorth Capital Management, LLC",669.62,2015,APAC,ETFSolutionsCost,Y,N
-"RiverNorth Capital Management, LLC",669.62,2015,APAC,FundAccounting,Y,N
-"RiverNorth Capital Management, LLC",669.62,2015,APAC,RiskAnalytics,Y,N
-"RiverNorth Capital Management, LLC",669.62,2015,APAC,MultiAssetClassAnalytics,N,N
-"RiverNorth Capital Management, LLC",669.62,2015,APAC,DigitalExperience,N,N
-"RiverNorth Capital Management, LLC",669.62,2015,APAC,PortfolioSolutions,N,N
-"RiverNorth Capital Management, LLC",669.62,2015,APAC,FXServices,N,N
-"RiverNorth Capital Management, LLC",669.62,2015,APAC,FinancingCollateralServices,N,N
+"RiverNorth Capital Management, LLC",669.62,2015,APAC,5.4,InvestmentServicing,N
+"RiverNorth Capital Management, LLC",669.62,2015,APAC,5.4,Custody,Y
+"RiverNorth Capital Management, LLC",669.62,2015,APAC,5.4,ETFSolutionsCost,Y
+"RiverNorth Capital Management, LLC",669.62,2015,APAC,5.4,FundAccounting,Y
+"RiverNorth Capital Management, LLC",669.62,2015,APAC,5.4,RiskAnalytics,N
+"RiverNorth Capital Management, LLC",669.62,2015,APAC,5.4,MultiAssetClassAnalytics,N
+"RiverNorth Capital Management, LLC",669.62,2015,APAC,5.4,DigitalExperience,N
+"RiverNorth Capital Management, LLC",669.62,2015,APAC,5.4,PortfolioSolutions,N
+"RiverNorth Capital Management, LLC",669.62,2015,APAC,5.4,FXServices,N
+"RiverNorth Capital Management, LLC",669.62,2015,APAC,5.4,FinancingCollateralServices,N
 Applied Finance Advisors,665.86,2006,APAC,6.6,InvestmentServicing,N
 Applied Finance Advisors,665.86,2006,APAC,6.6,Custody,Y
 Applied Finance Advisors,665.86,2006,APAC,6.6,ETFSolutionsCost,Y
@@ -4459,16 +4458,16 @@ Overlay Shares,456.13,2019,US,2.4,DigitalExperience,Y
 Overlay Shares,456.13,2019,US,2.4,PortfolioSolutions,N
 Overlay Shares,456.13,2019,US,2.4,FXServices,N
 Overlay Shares,456.13,2019,US,2.4,FinancingCollateralServices,N
-"Apollo Credit Management, LLC",452.13,2011,US,InvestmentServicing,10.2,N
-"Apollo Credit Management, LLC",452.13,2011,US,Custody,N,N
-"Apollo Credit Management, LLC",452.13,2011,US,ETFSolutionsCost,N,N
-"Apollo Credit Management, LLC",452.13,2011,US,FundAccounting,N,N
-"Apollo Credit Management, LLC",452.13,2011,US,RiskAnalytics,Y,N
-"Apollo Credit Management, LLC",452.13,2011,US,MultiAssetClassAnalytics,N,N
-"Apollo Credit Management, LLC",452.13,2011,US,DigitalExperience,N,N
-"Apollo Credit Management, LLC",452.13,2011,US,PortfolioSolutions,Y,N
-"Apollo Credit Management, LLC",452.13,2011,US,FXServices,N,N
-"Apollo Credit Management, LLC",452.13,2011,US,FinancingCollateralServices,N,N
+"Apollo Credit Management, LLC",452.13,2011,US,10.2,InvestmentServicing,N
+"Apollo Credit Management, LLC",452.13,2011,US,10.2,Custody,N
+"Apollo Credit Management, LLC",452.13,2011,US,10.2,ETFSolutionsCost,N
+"Apollo Credit Management, LLC",452.13,2011,US,10.2,FundAccounting,Y
+"Apollo Credit Management, LLC",452.13,2011,US,10.2,RiskAnalytics,N
+"Apollo Credit Management, LLC",452.13,2011,US,10.2,MultiAssetClassAnalytics,N
+"Apollo Credit Management, LLC",452.13,2011,US,10.2,DigitalExperience,Y
+"Apollo Credit Management, LLC",452.13,2011,US,10.2,PortfolioSolutions,N
+"Apollo Credit Management, LLC",452.13,2011,US,10.2,FXServices,N
+"Apollo Credit Management, LLC",452.13,2011,US,10.2,FinancingCollateralServices,N
 Ecofin,449.68,2017,US,1.7,InvestmentServicing,N
 Ecofin,449.68,2017,US,1.7,Custody,N
 Ecofin,449.68,2017,US,1.7,ETFSolutionsCost,N
@@ -4589,16 +4588,16 @@ Intrepid Funds,433.63,2005,APAC,3.8,DigitalExperience,Y
 Intrepid Funds,433.63,2005,APAC,3.8,PortfolioSolutions,N
 Intrepid Funds,433.63,2005,APAC,3.8,FXServices,N
 Intrepid Funds,433.63,2005,APAC,3.8,FinancingCollateralServices,N
-"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,InvestmentServicing,6.1,N
-"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,Custody,N,N
-"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,ETFSolutionsCost,N,N
-"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,FundAccounting,N,N
-"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,RiskAnalytics,Y,N
-"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,MultiAssetClassAnalytics,N,N
-"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,DigitalExperience,N,N
-"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,PortfolioSolutions,Y,N
-"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,FXServices,N,N
-"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,FinancingCollateralServices,N,N
+"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,6.1,InvestmentServicing,N
+"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,6.1,Custody,N
+"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,6.1,ETFSolutionsCost,N
+"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,6.1,FundAccounting,Y
+"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,6.1,RiskAnalytics,N
+"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,6.1,MultiAssetClassAnalytics,N
+"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,6.1,DigitalExperience,Y
+"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,6.1,PortfolioSolutions,N
+"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,6.1,FXServices,N
+"Columbia Mgmt Investment Advisers, LLC",430.62,2009,APAC,6.1,FinancingCollateralServices,N
 Beacon Investment Advisory,430.16,2017,APAC,4.7,InvestmentServicing,N
 Beacon Investment Advisory,430.16,2017,APAC,4.7,Custody,N
 Beacon Investment Advisory,430.16,2017,APAC,4.7,ETFSolutionsCost,N
@@ -4749,16 +4748,16 @@ Poplar Forest Capital,396.29,2009,APAC,6.4,DigitalExperience,N
 Poplar Forest Capital,396.29,2009,APAC,6.4,PortfolioSolutions,N
 Poplar Forest Capital,396.29,2009,APAC,6.4,FXServices,N
 Poplar Forest Capital,396.29,2009,APAC,6.4,FinancingCollateralServices,Y
-"Saba Capital Management, LP",392.97,1988,APAC,InvestmentServicing,8.1,Y
-"Saba Capital Management, LP",392.97,1988,APAC,Custody,N,Y
-"Saba Capital Management, LP",392.97,1988,APAC,ETFSolutionsCost,N,Y
-"Saba Capital Management, LP",392.97,1988,APAC,FundAccounting,N,Y
-"Saba Capital Management, LP",392.97,1988,APAC,RiskAnalytics,Y,Y
-"Saba Capital Management, LP",392.97,1988,APAC,MultiAssetClassAnalytics,N,Y
-"Saba Capital Management, LP",392.97,1988,APAC,DigitalExperience,N,Y
-"Saba Capital Management, LP",392.97,1988,APAC,PortfolioSolutions,N,Y
-"Saba Capital Management, LP",392.97,1988,APAC,FXServices,N,Y
-"Saba Capital Management, LP",392.97,1988,APAC,FinancingCollateralServices,N,Y
+"Saba Capital Management, LP",392.97,1988,APAC,8.1,InvestmentServicing,N
+"Saba Capital Management, LP",392.97,1988,APAC,8.1,Custody,N
+"Saba Capital Management, LP",392.97,1988,APAC,8.1,ETFSolutionsCost,N
+"Saba Capital Management, LP",392.97,1988,APAC,8.1,FundAccounting,Y
+"Saba Capital Management, LP",392.97,1988,APAC,8.1,RiskAnalytics,N
+"Saba Capital Management, LP",392.97,1988,APAC,8.1,MultiAssetClassAnalytics,N
+"Saba Capital Management, LP",392.97,1988,APAC,8.1,DigitalExperience,N
+"Saba Capital Management, LP",392.97,1988,APAC,8.1,PortfolioSolutions,N
+"Saba Capital Management, LP",392.97,1988,APAC,8.1,FXServices,N
+"Saba Capital Management, LP",392.97,1988,APAC,8.1,FinancingCollateralServices,Y
 Fund X,390.89,2001,APAC,19.6,InvestmentServicing,N
 Fund X,390.89,2001,APAC,19.6,Custody,N
 Fund X,390.89,2001,APAC,19.6,ETFSolutionsCost,N
@@ -4909,26 +4908,26 @@ First Pacific,358.07,1968,US,6.5,DigitalExperience,N
 First Pacific,358.07,1968,US,6.5,PortfolioSolutions,N
 First Pacific,358.07,1968,US,6.5,FXServices,N
 First Pacific,358.07,1968,US,6.5,FinancingCollateralServices,N
-"Angel Oak Capital Advisors, LLC",354.33,2019,US,InvestmentServicing,2.7,N
-"Angel Oak Capital Advisors, LLC",354.33,2019,US,Custody,N,N
-"Angel Oak Capital Advisors, LLC",354.33,2019,US,ETFSolutionsCost,N,N
-"Angel Oak Capital Advisors, LLC",354.33,2019,US,FundAccounting,N,N
-"Angel Oak Capital Advisors, LLC",354.33,2019,US,RiskAnalytics,Y,N
-"Angel Oak Capital Advisors, LLC",354.33,2019,US,MultiAssetClassAnalytics,N,N
-"Angel Oak Capital Advisors, LLC",354.33,2019,US,DigitalExperience,N,N
-"Angel Oak Capital Advisors, LLC",354.33,2019,US,PortfolioSolutions,N,N
-"Angel Oak Capital Advisors, LLC",354.33,2019,US,FXServices,N,N
-"Angel Oak Capital Advisors, LLC",354.33,2019,US,FinancingCollateralServices,N,N
-"Aperture Investors, LLC",352.6,2019,US,InvestmentServicing,0.2,N
-"Aperture Investors, LLC",352.6,2019,US,Custody,N,N
-"Aperture Investors, LLC",352.6,2019,US,ETFSolutionsCost,N,N
-"Aperture Investors, LLC",352.6,2019,US,FundAccounting,N,N
-"Aperture Investors, LLC",352.6,2019,US,RiskAnalytics,Y,N
-"Aperture Investors, LLC",352.6,2019,US,MultiAssetClassAnalytics,N,N
-"Aperture Investors, LLC",352.6,2019,US,DigitalExperience,N,N
-"Aperture Investors, LLC",352.6,2019,US,PortfolioSolutions,N,N
-"Aperture Investors, LLC",352.6,2019,US,FXServices,N,N
-"Aperture Investors, LLC",352.6,2019,US,FinancingCollateralServices,N,N
+"Angel Oak Capital Advisors, LLC",354.33,2019,US,2.7,InvestmentServicing,N
+"Angel Oak Capital Advisors, LLC",354.33,2019,US,2.7,Custody,N
+"Angel Oak Capital Advisors, LLC",354.33,2019,US,2.7,ETFSolutionsCost,N
+"Angel Oak Capital Advisors, LLC",354.33,2019,US,2.7,FundAccounting,Y
+"Angel Oak Capital Advisors, LLC",354.33,2019,US,2.7,RiskAnalytics,N
+"Angel Oak Capital Advisors, LLC",354.33,2019,US,2.7,MultiAssetClassAnalytics,N
+"Angel Oak Capital Advisors, LLC",354.33,2019,US,2.7,DigitalExperience,N
+"Angel Oak Capital Advisors, LLC",354.33,2019,US,2.7,PortfolioSolutions,N
+"Angel Oak Capital Advisors, LLC",354.33,2019,US,2.7,FXServices,N
+"Angel Oak Capital Advisors, LLC",354.33,2019,US,2.7,FinancingCollateralServices,N
+"Aperture Investors, LLC",352.6,2019,US,0.2,InvestmentServicing,N
+"Aperture Investors, LLC",352.6,2019,US,0.2,Custody,N
+"Aperture Investors, LLC",352.6,2019,US,0.2,ETFSolutionsCost,N
+"Aperture Investors, LLC",352.6,2019,US,0.2,FundAccounting,Y
+"Aperture Investors, LLC",352.6,2019,US,0.2,RiskAnalytics,N
+"Aperture Investors, LLC",352.6,2019,US,0.2,MultiAssetClassAnalytics,N
+"Aperture Investors, LLC",352.6,2019,US,0.2,DigitalExperience,N
+"Aperture Investors, LLC",352.6,2019,US,0.2,PortfolioSolutions,N
+"Aperture Investors, LLC",352.6,2019,US,0.2,FXServices,N
+"Aperture Investors, LLC",352.6,2019,US,0.2,FinancingCollateralServices,N
 AGRA,351.71,2021,US,0.7,InvestmentServicing,N
 AGRA,351.71,2021,US,0.7,Custody,N
 AGRA,351.71,2021,US,0.7,ETFSolutionsCost,N
@@ -4988,5 +4987,4 @@ SouthernSunFunds,344.38,2003,US,9.2,MultiAssetClassAnalytics,N
 SouthernSunFunds,344.38,2003,US,9.2,DigitalExperience,N
 SouthernSunFunds,344.38,2003,US,9.2,PortfolioSolutions,N
 SouthernSunFunds,344.38,2003,US,9.2,FXServices,N
-SouthernSunFunds,344.38,2003,US,9.2,FinancingCollateralServices,N
 SouthernSunFunds,344.38,2003,US,9.2,FinancingCollateralServices,N
